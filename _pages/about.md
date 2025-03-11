@@ -23,7 +23,7 @@ Research Fund
 ## 👤 About Me
 ------
 I am a Project Lecturer at the University of Tokyo. 
-
+🕰️ Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
 📍 **Affiliation:** [Interfaculty Initiative in Information Studies, The University of Tokyo]
 ---
 
@@ -49,7 +49,6 @@ I am a Project Lecturer at the University of Tokyo.
 ### 🏆 Awards & Achievements
 - **[Award Name]** – [Year], [Institution/Organization]
 - **[Grant/Fellowship]** – [Year], [Granting Body]
-
 ---
 
 ## 💰 Funded Projects & Grants
