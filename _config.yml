@@ -13,9 +13,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Hangli Ge"
 description              : &description "personal description"
-url                      : https://christie888.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://christie888.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+#repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hangli Ge (葛杭丽|葛杭麗)"
+  name             : "Hangli Ge "
   pronouns         : # example: "she/her"  
   bio              : "Project Lecturer"
   location         : "Tokyo, Japan"
   employer         : "The University of Tokyo"
-  uri              : # URL
+  uri              : "https://www.u-tokyo.ac.jp/focus/ja/people/k0001_02873.html"
   email            : "hanglige@g.ecc.u-tokyo.ac.jp" 
 
   # Academic websites
