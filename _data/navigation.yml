@@ -7,6 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
+<<<<<<< HEAD
 
   #- title: "Talks"
   #  url: /talks/    
@@ -25,3 +26,9 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+=======
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+  
+>>>>>>> 4da064c9af71b7c7d54a5d404722c827b081bff4
