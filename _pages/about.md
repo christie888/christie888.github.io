@@ -30,17 +30,20 @@ I am a Project Lecturer at the University of Tokyo.
 ## 🔬 Research Topics
  I am specializing in the following research areas:
 
- **Topic 2: Pysicis-informed (PI) AI for Traffic/Congestion Prediction**
+ **Topic 2: Pysicis-informed (PI)-AI for Traffic/Congestion Prediction**
  
- Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic conditions. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
+ Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
- **Topic 3: Quantum Computing for Optimization and Inverse Problems**
+ **Topic 3: Quantum Computing for Optimization Problems**
  
- Optimization is widely applied in machine learning, control and operations research. Classical approaches include gradient descent and evolutionary algorithms,etc., while modern methods integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale and high-dimensional data inputs, as many of them are NP-hard. Quantum computing is expected to revolutionize fields that rely on complex optimization and inverse problem-solving, enabling faster and more accurate solutions in real-world applications. A specific direction is detection technology in the physical layer of wireless communications. The optimization problem of mapping the received signal to qubits is under investigation.
+Optimization is widely applied in machine learning, control and operations research. Classical approaches include gradient descent and evolutionary algorithms,etc., while modern methods integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
+
   
 **Topic 1: Digital Twin (DT) for Resillient and Smart Mobility**
 
-As quantum computing advances, PI-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization. It could revolutionize real-time congestion control by solving complex vehicle routing and traffic assignment problems much faster than classical solvers. By integrating solid traffic flow theories, efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, and sustainable.
+DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
+As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, and sustainable. 
+The research question and hypotheses realted to DT include: What novel Quantum computing techniques can be designed to address the complex optimization challenges in smart and resillient mobility? What objectives, such as reducing traffic congestion, minimizing energy consumption, carbon emissions could be optimized by Quantum AI models? Additionally, can we define other comprehensive goals for the smart and resillient mobility. 
 
 ---
 
