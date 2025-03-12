@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hangli Ge (葛杭丽 | 葛杭麗)
+## Hangli Ge (葛杭丽 | 葛杭麗)
 <!-- Research Topics
 ------
 Academic Affiliations
@@ -23,19 +23,18 @@ Research Fund
 ## 👤 About Me
 ------
 I am a Project Lecturer at the University of Tokyo. 
-🕰️ Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
-📍 **Affiliation:** [Interfaculty Initiative in Information Studies, The University of Tokyo]
+- 🕰️ Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
+- 📍 **Affiliation:** [Interfaculty Initiative in Information Studies, The University of Tokyo]
 ---
 
 ## 🔬 Research Topics
- specializes in the following research areas:
-- **Topic 1**: [Digital Twin for Resillient and Smart Mobility]
-- **Topic 2**: [Traffic / Congestion Prediction]
-- **Topic 3**: []
+ I am specializing in the following research areas:
+- **Topic 1: Digital Twin for Resillient and Smart Mobility**
+- **Topic 2: Pysicis-informed AI for Traffic　Congestion Prediction**
+- **Topic 3: Mathematics in Optimization and Inverse Problems**
 ---
 
-## 📰 Latest Publications & News
-### 📄 Recent Publications
+## 📄 Recent Publications & News
 1. **[Paper Title]** – [Conference/Journal Name], [Year]  
    🔗 [DOI or Link]  
    📄 **Abstract:** [Short Abstract]
@@ -60,7 +59,7 @@ I am a Project Lecturer at the University of Tokyo.
 ---
 
 
-🔹 _Last updated: [03/2025]_  
+🔹 _Last updated: [2025/03/12]_  
 
 
 
