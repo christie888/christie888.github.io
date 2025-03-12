@@ -46,9 +46,10 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 
 ---
 
-## 📄 Recent Publications & News More Publications:** [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+## 📄 Recent Publications & News
  ### **A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS”colocated with EDCC, 2025
  ### **[Paper Title]** – [Conference/Journal Name], [Year]  
+More Publications -> [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
 ### 🏆 Awards & Achievements
 - **Specially Selected Paper** – 2024,Journal of Information Processing
