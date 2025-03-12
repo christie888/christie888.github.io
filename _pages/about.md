@@ -10,11 +10,12 @@ redirect_from:
 ## 👤 About Me
 ---
 My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer at the University of Tokyo. 
-- 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
-- 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo
+
+ 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
+ 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
 ---
 
-### 🔬 Research Topics
+### 📚 Research Topics
  I am specializing in the following research areas:
 
  **✨Topic 1: Pysicis-informed (PI)-AI for Traffic/Congestion Prediction**
@@ -57,8 +58,8 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 
 | Grant Name | Duration |
 |------------|-------------|
-| **Early-Career Researcher Program, Grants-in-Aid for Scientific Research (JSPS KAKENHI)** |  2025.04.- 2027.03. |
-| **Foundation for the Promotion of Electrical Communication Research Grant** |  2025.05-2027.03 |
+| **Early-Career Researcher Program, Grants-in-Aid for Scientific Research (JSPS KAKENHI)** |  2025.04. - 2027.03. |
+| **Foundation for the Promotion of Electrical Communication Research Grant** |  2025.05. - 2027.03. |
 
 ---
 
