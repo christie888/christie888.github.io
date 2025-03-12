@@ -42,8 +42,7 @@ Optimization is widely applied in machine learning, control and operations resea
 **Topic 1: Digital Twin (DT) for Resillient and Smart Mobility**
 
 DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
-As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, and sustainable. 
-The research question and hypotheses realted to DT include: What novel Quantum computing techniques can be designed to address the complex optimization challenges in smart and resillient mobility? What objectives, such as reducing traffic congestion, minimizing energy consumption, carbon emissions could be optimized by Quantum AI models? Additionally, can we define other comprehensive goals for the smart and resillient mobility. 
+As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
 
 ---
 
