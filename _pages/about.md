@@ -17,7 +17,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 ### 📚 Research Topics
  I am specializing in the following research areas:
 
- **✨Topic 1: Pysicis-informed (PI)-AI for Traffic/Congestion Prediction**
+ **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
  
  Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
@@ -35,7 +35,7 @@ Quantum computing advances, enaling complex problems solving much faster than cl
 ### 📝 Recent Publications & News
 *  **Hangli Ge**, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
 *  Xiaojie Yang, **Hangli Ge**, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
-* #####  **Hangli Ge**, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
+* #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
 *  #####  Ge Hangli, Takashi Michikata, and Noboru Koshizuka.“K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks.” 情報処理学会論文誌 Journal of Information Processing 32 (2024): 575-585. (特選選考論文賞・Specially Selected Paper)
 *  #####  Xiaojie Yang, Zipei Fan, **Hangli Ge**, Takashi Michikata, Noboru Koshizuka, **"Causality-Aware Next Location Prediction Framework Based on Human Mobility Stratification"** The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)
 *  #####  Amitav Swapnil, **Hangli Ge**, Manee Sangaran Diagarajan, Ari Happonen, **"Modern State-of-the-Art Generative AI Uses and Practices for Product Innovation, Marketing Strategies, and Enhanced Customer Experience"**, the 7th Asia Conference on Cognitive Engineering and Intelligent Interaction (CEII 2024)
