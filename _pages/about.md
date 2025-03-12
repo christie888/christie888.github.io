@@ -46,10 +46,12 @@ More Publications -> [Google Scholar](https://scholar.google.com/citations?user=
 ---
 
 ### 🔹 Funded Projects & Research Grants
-| Grant Name | Funding Body | Amount | Duration |
-|------------|--------------|----------|-------------|
-| **[Grant Title]** | [Funding Agency] | $XXX,XXX | [Start Year] - [End Year] |
-| **[Grant Title]** | [Funding Agency] | $XXX,XXX | [Start Year] - [End Year] |
+
+| Grant Name | Duration |
+|------------|-------------|
+| **[Grant Title]** |  [Start Year] - [End Year] |
+| **[Grant Title]** |  [Start Year] - [End Year] |
+
 ---
 
 
