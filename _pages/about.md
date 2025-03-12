@@ -23,19 +23,18 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 
  **✨Topic 2: Quantum Computing for Optimization Problems**
  
-Optimization is widely applied in machine learning, control and operations research. Classical approaches include gradient descent and evolutionary algorithms,etc., while modern methods integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
+Optimization is widely applied in machine learning, control system and operations research. Classical approaches include gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
   
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 
 DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
-As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
+Quantum computing advances, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
 
 ---
-
 ### 📝 Recent Publications & News
-* #####  **Hangli Ge**, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
-* ##### Xiaojie Yang, **Hangli Ge**, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
+*  **Hangli Ge**, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
+*  Xiaojie Yang, **Hangli Ge**, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
 * #####  **Hangli Ge**, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
 *  #####  Ge Hangli, Takashi Michikata, and Noboru Koshizuka.“K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks.” 情報処理学会論文誌 Journal of Information Processing 32 (2024): 575-585. (特選選考論文賞・Specially Selected Paper)
 *  #####  Xiaojie Yang, Zipei Fan, **Hangli Ge**, Takashi Michikata, Noboru Koshizuka, **"Causality-Aware Next Location Prediction Framework Based on Human Mobility Stratification"** The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)
@@ -47,10 +46,7 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 *   ##### Hiroki Oikawa, Hangli Ge, Noboru koshizuka, “On-line Interpolation-based Data Management for Time-Series Data toward Edge Computing” GLOBECOM 2022-2022 IEEE Global Communications Conference, 5050-5056
 * ##### Hangli Ge, Lifeng Lin, Renhe Jiang, Takashi Michikata, Noboru Koshizuka, “Multi-weighted Graphs Learning for Passenger Count Prediction on Railway Network”, In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp.374-382).IEEE.
 * ##### Ge Hangli, Zhe Sun, Yasuhira Chiba, and Noboru Koshizuka. "Accurate indoor location awareness based on machine learning of environmental sensing data." Computers & Electrical Engineering 98 (2022): 107676.
-* ##### Hangli Ge, Xiaohui Peng, Noboru Koshizuka, Applying knowledge inference on event-conjunction for automatic control in smart building, Applied Sciences 11 (3), 935,2021
-
-
-
+* ##### Hangli Ge, Xiaohui Peng, Noboru Koshizuka, Applying knowledge inference on event-conjunction for automatic control in smart building, Applied Sciences 11 (3), 935, 2021
 
 More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
@@ -65,8 +61,8 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 
 | Grant Name | Duration |
 |------------|-------------|
-| **Early-Career Researcher Program, Grants-in-Aid for Scientific Research (JSPS KAKENHI)** |  2025.04. - 2027.03. |
-| **Foundation for the Promotion of Electrical Communication Research Grant** |  2025.05. - 2027.03. |
+| Early-Career Researcher Program, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2027.03. |
+| Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2027.03. |
 
 ---
 
