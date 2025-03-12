@@ -7,22 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-## Hangli Ge (葛杭丽 | 葛杭麗)
-<!-- Research Topics
-------
-Academic Affiliations
-------
-News
-------
-# (Example: editing a markdown file for a talk !-->
-<!-- ![Editing a markdown file for a talk](/images/editing-talk.png))! 
-Research Fund
-------
--->
-
 ## 👤 About Me
 ------
-I am a Project Lecturer at the University of Tokyo. 
+My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer at the University of Tokyo. 
 - 🎓 **Ph.D.** degree of Interdisciplinary Information studies from The University of Tokyo in 2019
 - 📍 **Affiliation:** Interfaculty Initiative in Information Studies, The University of Tokyo
 ---
@@ -46,9 +33,10 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 
 ---
 
-## 📄 Recent Publications & News
- ### **A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS”colocated with EDCC, 2025
- ### **[Paper Title]** – [Conference/Journal Name], [Year]  
+## 📝 Recent Publications & News
+ - Hangli Ge, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
+ - Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka,**CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
+
 More Publications -> [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
 ### 🏆 Awards & Achievements
