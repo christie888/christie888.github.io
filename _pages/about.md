@@ -41,7 +41,10 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 > #####  Amitav Swapnil, **Hangli Ge**, Manee Sangaran Diagarajan, Ari Happonen, **"Modern State-of-the-Art Generative AI Uses and Practices for Product Innovation, Marketing Strategies, and Enhanced Customer Experience"**, the 7th Asia Conference on Cognitive Engineering and Intelligent Interaction (CEII 2024)
 > #####  **Hangli Ge**, Hirotsugu Seike, and Noboru Koshizuka. **"Time-Probability Dependent Knowledge Extraction in IoT-enabled Smart Building."** In 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 503-508. IEEE, 2024.
 > ##### Hiroki Oikawa, Hangli Ge, Noboru koshizuka, “Dynamic Representative Data Management of Multiple Time Series for Edge Computing” IEEE International Conference on Communications (ICC 2023),960-966
-> ##### 	Itsuki Matsunaga, Yuto Kosugi, Ge Hangli, Takashi Michikata, Noboru Koshizuka, “Improving Long-Term Traffic Prediction with Online Search Log Data” 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2023
+> ##### Oikawa, Hiroki; Ge, Hangli, Koshizuka, Noboru “Efficient Compressed Ratio Estimation using Online Sequential Learning for Edge Computing”In 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (pp. 1-7). IEEE
+> ##### Itsuki Matsunaga, Yuto Kosugi, Ge Hangli, Takashi Michikata, Noboru Koshizuka, “Improving Long-Term Traffic Prediction with Online Search Log Data” 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2023
+>##### Hiroki Oikawa, Hangli Ge, Noboru koshizuka, “On-line Interpolation-based Data Management for Time-Series Data toward Edge Computing” GLOBECOM 2022-2022 IEEE Global Communications Conference, 5050-5056
+>##### Hangli Ge, Lifeng Lin, Renhe Jiang, Takashi Michikata, Noboru Koshizuka, “Multi-weighted Graphs Learning for Passenger Count Prediction on Railway Network”, In 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC) (pp.374-382).IEEE.
 
 
 More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
