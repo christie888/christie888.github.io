@@ -10,8 +10,8 @@ redirect_from:
 ## 👤 About Me
 ---
 My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer at the University of Tokyo. 
-#### 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
-#### 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
+### 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019
+### 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
 ---
 
 ### 📚 Research Topics
