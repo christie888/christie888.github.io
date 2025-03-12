@@ -34,7 +34,7 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 ---
 
 ## 📝 Recent Publications & News
->> #####  **Hangli Ge**, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
+> #####  **Hangli Ge**, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
  - ##### Xiaojie Yang, **Hangli Ge**, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
  - #####  **Hangli Ge**, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
  - #####  Xiaojie Yang, Zipei Fan, **Hangli Ge**, Takashi Michikata, Noboru Koshizuka, **"Causality-Aware Next Location Prediction Framework Based on Human Mobility Stratification"** The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)
