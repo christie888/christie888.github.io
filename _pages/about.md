@@ -17,16 +17,16 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 ### 🔬 Research Topics
  I am specializing in the following research areas:
 
- **Topic 1: Pysicis-informed (PI)-AI for Traffic/Congestion Prediction**
+ **✨Topic 1: Pysicis-informed (PI)-AI for Traffic/Congestion Prediction**
  
  Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
- **Topic 2: Quantum Computing for Optimization Problems**
+ **✨Topic 2: Quantum Computing for Optimization Problems**
  
 Optimization is widely applied in machine learning, control and operations research. Classical approaches include gradient descent and evolutionary algorithms,etc., while modern methods integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
   
-**Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
+**✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 
 DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
 As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between classical traffic modeling and quantum-enhanced optimization, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
@@ -44,9 +44,7 @@ As quantum computing advances, Pysicis-informed (PI)-AI offers a bridge between 
 > ##### 	Itsuki Matsunaga, Yuto Kosugi, Ge Hangli, Takashi Michikata, Noboru Koshizuka, “Improving Long-Term Traffic Prediction with Online Search Log Data” 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC). IEEE, 2023
 
 
-
-
-More Publications -> [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
 <!--### 🏆 Awards & Achievements
 - **Specially Selected Paper** – 2024, Journal of Information Processing
