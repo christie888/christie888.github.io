@@ -19,16 +19,16 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 
  **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
  
- Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
+> Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
  **✨Topic 2: Quantum Computing for Optimization Problems**
  
-Optimization is widely applied in machine learning, control system and operations research. Classical approaches include gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
+> Optimization is widely applied in machine learning, control system and operations research. Classical approaches include gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
   
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 
-DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
+> DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
 Quantum computing advances, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
 
 ---
