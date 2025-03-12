@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Homepage"
+title                    : "Hangli Ge-Homepage"
 title_separator          : "-"
 name                     : &name "Hangli Ge"
 description              : &description "personal description"
