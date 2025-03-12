@@ -60,7 +60,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 
 | Grant Name | Duration |
 |------------|-------------|
-| Early-Career Researcher Program, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |
+| Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |
 | Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2028.03. |
 
 ---
