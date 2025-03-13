@@ -25,6 +25,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 > DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating solid physics-informed traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions and so on. 
 ---
+
 ### 📝 Recent Publications & News
 More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
