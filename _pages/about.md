@@ -24,6 +24,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 > DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating solid physics-informed traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions and so on. 
+
 ---
 
 ### 📝 Recent Publications & News
