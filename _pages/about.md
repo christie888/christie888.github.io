@@ -10,7 +10,7 @@ redirect_from:
 ## 👤 About Me
 ---
 My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer at the University of Tokyo. 
-> #### 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019<br> 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
+> ### 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019<br> 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
 ---
 
 ### 📚 Research Topics
@@ -22,7 +22,6 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
  **✨Topic 2: Quantum Computing for Optimization Problems**
 > Optimization is widely applied in machine learning, control system and operations research. Classical approaches include gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
-  
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
 > DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
 Quantum computing advances, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
@@ -35,7 +34,6 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
 *  #####   <mark>Hangli Ge</mark>, Takashi Michikata, and Noboru Koshizuka.“K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks.” 情報処理学会論文誌 Journal of Information Processing 32 (2024): 575-585. (特選選考論文賞・Specially Selected Paper)
 *  #####  Xiaojie Yang, Zipei Fan,  <mark>Hangli Ge</mark>, Takashi Michikata, Noboru Koshizuka, **"Causality-Aware Next Location Prediction Framework Based on Human Mobility Stratification"** The 21st IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)
-*  #####  Amitav Swapnil,  <mark>Hangli Ge</mark>, Manee Sangaran Diagarajan, Ari Happonen, **"Modern State-of-the-Art Generative AI Uses and Practices for Product Innovation, Marketing Strategies, and Enhanced Customer Experience"**, the 7th Asia Conference on Cognitive Engineering and Intelligent Interaction (CEII 2024)
 *  #####   <mark>Hangli Ge</mark>, Hirotsugu Seike, and Noboru Koshizuka. **"Time-Probability Dependent Knowledge Extraction in IoT-enabled Smart Building."** In 2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC), pp. 503-508. IEEE, 2024.
 *  ##### Hiroki Oikawa,  <mark>Hangli Ge</mark>, Noboru koshizuka, “Dynamic Representative Data Management of Multiple Time Series for Edge Computing” IEEE International Conference on Communications (ICC 2023),960-966
 *  ##### Oikawa, Hiroki;  <mark>Hangli Ge</mark>, Koshizuka, Noboru “Efficient Compressed Ratio Estimation using Online Sequential Learning for Edge Computing”In 2023 IEEE 34th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) (pp. 1-7). IEEE
