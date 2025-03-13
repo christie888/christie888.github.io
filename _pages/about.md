@@ -16,23 +16,21 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 
 ### 📚 Research Topics
  I am specializing in the following research areas:
-
- **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
  
+ **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
 > Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with generalization, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
  **✨Topic 2: Quantum Computing for Optimization Problems**
- 
 > Optimization is widely applied in machine learning, control system and operations research. Classical approaches include gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
   
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
-
 > DTs support the optimizations of resources allocation, operations, and support data-driven decision-making.
 Quantum computing advances, enaling complex problems solving much faster than classical solutions. By integrating solid traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions  and so on. 
 
 ---
 ### 📝 Recent Publications & News
+More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
 * ##### Xiaojie Yang,  <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted.
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka, **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction"**, 2024 IEEE International Conference on Ubiquitous Intelligence and Computing（IEEE BigData 2024）
@@ -48,7 +46,7 @@ Quantum computing advances, enaling complex problems solving much faster than cl
 * #####  <mark>Hangli Ge</mark>, Zhe Sun, Yasuhira Chiba, and Noboru Koshizuka. "Accurate indoor location awareness based on machine learning of environmental sensing data." Computers & Electrical Engineering 98 (2022): 107676.
 * #####  <mark>Hangli Ge</mark>, Xiaohui Peng, Noboru Koshizuka, Applying knowledge inference on event-conjunction for automatic control in smart building, Applied Sciences 11 (3), 935, 2021
 
-More Publications 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+
 
 <!--### 🏆 Awards & Achievements
 - **Specially Selected Paper** – 2024, Journal of Information Processing
