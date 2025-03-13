@@ -13,13 +13,12 @@ title                    : "Hangli Ge's Homepage"
 title_separator          : "-"
 name                     : &name "Hangli Ge"
 description              : &description "personal description"
-<<<<<<< HEAD
+
 url                      : "https://christie888.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 =======
 url                      : https://christie888.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
->>>>>>> 4da064c9af71b7c7d54a5d404722c827b081bff4
 #repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
