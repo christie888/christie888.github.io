@@ -5,6 +5,5 @@
 # prevent it from being included in the site.
 
 main:
-
-  
->>>>>>> 4da064c9af71b7c7d54a5d404722c827b081bff4
+  - title: Home
+    url: /posts/
