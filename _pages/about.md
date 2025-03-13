@@ -52,7 +52,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 ---
 !-->
 
-### 🔹 Funded Projects & Research Grants
+### 🔹 Research Grants
 
 | Grant Name | Duration |
 |------------|-------------|
