@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Homepage"
+site_theme               : "Mint skin"
+title                    : "Hangli Ge's Homepage"
 title_separator          : "-"
 name                     : &name "Hangli Ge"
 description              : &description "personal description"
@@ -28,7 +28,7 @@ url                      : https://christie888.github.io # the base hostname & p
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hangli Ge "
+  name             : "Hangli Ge"
   pronouns         : # example: "she/her"  
   bio              : "Project Lecturer"
   location         : "Tokyo, Japan"
@@ -125,8 +125,7 @@ staticman:
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-
-
+  
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -262,14 +261,14 @@ defaults:
   #    share: true
   #    comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #  path: ""
+  # type: publications  
+  # values:
+  #    layout: single
+  #     author_profile: true
+  #     share: true
+ #      comments: true
   # _portfolio
   #- scope:
   #    path: ""
