@@ -23,7 +23,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 > Optimization is widely applied in machine learning, control system and operations research. Classical approaches including gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 
 **✨Topic 3: Digital Twin (DT) for Resillient and Smart Mobility**
-> DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating solid physics-informed traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption, carbon emissions and so on. 
+> DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating solid physics-informed traffic flow theories with efficient quantum AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption and maxmizing economic efficiency and so on. 
 
 ---
 
