@@ -13,10 +13,10 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 #### 🎓 Ph.D. degree of Interdisciplinary Information studies from The University of Tokyo in 2019<br> 📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo from 2019
 ---
 
-### 📚 Research Topics
+<!--### 📚 Research Topics
  I am specializing in the following research areas:
  
-<!-- **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
+ **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
 > Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed AI (PI-AI) integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
 <!-- **✨Topic 2: Quantum Computing for Optimization Problems**
