@@ -13,7 +13,9 @@ permalink: /post/
 ---
 
 ### 🧘‍♂️ ヤマ（Yama）| ニヤマ（Niyama）
-- 不盗	Asteya	Non-stealing	Do not steal or desire what belongs to others.
-- 不貪	Aparigraha	Non-possessiveness	Letting go of greed, attachments, and materialism.
-- 知足	Santosha	Contentment	Being content with what you have and who you are.
-- 鍛錬	Tapas	Self-discipline	Developing inner strength through disciplined practice.
+| 日本語  | 英語訳 | 説明 |
+|--------|--------|------|
+| 不盗 | Non-stealing | Do not steal or desire what belongs to others. |
+| 不貪 | Non-possessiveness | Letting go of greed, attachments, and materialism. |
+| 知足 | Contentment | Being content with what you have and who you are. |
+| 鍛錬 | Self-discipline | Developing inner strength through disciplined practice. |
