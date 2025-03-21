@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Post"
-permalink: /post/
+permalink: post/
 ---
 
 
