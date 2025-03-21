@@ -13,7 +13,7 @@ permalink: /post/
 ---
 
 ### 🧘‍♂️ ヤマ（Yama）| ニヤマ（Niyama）
-| 日本語  | 英語訳 | 説明 |
+| 日本語  | 英語訳 | 説明/Description |
 |--------|--------|------|
 | 不盗 | Non-stealing | Do not steal or desire what belongs to others. |
 | 不貪 | Non-possessiveness | Letting go of greed, attachments, and materialism. |
