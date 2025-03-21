@@ -54,13 +54,13 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 ---
 !-->
 
-### 🔹 Research Grants
+### 🔹 Grants & Funding
 
 | Grant Name | Duration | Responsibility|
 |------------|-------------|-------------|
-| Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |Leader|
-| Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2028.03. |Leader|
-| Yoshiko & Yoshimi Shinohara Foundation Grant|  2025.04. - 2026.03. |Collaborator|
+| Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |Principal Investigator|
+| Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2028.03. |Principal Investigator|
+| Yoshiko & Yoshimi Shinohara Foundation Grant|  2025.04. - 2026.03. |Co-Investigator|
 
 ---
 
