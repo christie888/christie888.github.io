@@ -13,7 +13,6 @@ permalink: /post/
 ---
 
 ### 🧘‍♂️ ヤマ（Yama）| ニヤマ（Niyama）
->　＝社会や他者との関係で守るべき倫理・禁戒（moral restraints）
 - 不盗	Asteya	Non-stealing	Do not steal or desire what belongs to others.
 - 不貪	Aparigraha	Non-possessiveness	Letting go of greed, attachments, and materialism.
 - 知足	Santosha	Contentment	Being content with what you have and who you are.
