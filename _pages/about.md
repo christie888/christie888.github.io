@@ -60,7 +60,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 |------------|-------------|-------------|
 | Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |Principal Investigator|
 | Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2028.03. |Principal Investigator|
-| Yoshiko & Yoshimi Shinohara Foundation Grant|  2025.04. - 2026.03. |Co-Investigator|
+| The Shinohara Foundation Research Grant |  2025.04. - 2026.03. |Co-Investigator|
 
 ---
 
