@@ -4,7 +4,7 @@ title: "Post"
 permalink: post/
 ---
 
-
+<!--
 
 ---
 ### 📝 Ignorance Can Be Forgiven, But Arrogance Cannot Be Tolerated
@@ -22,3 +22,5 @@ permalink: post/
 | 知足 | Contentment | Being content with what you have and who you are. |
 | 内省 | Introspection | Self-study and introspection through the study |
 | 鍛錬 | Self-discipline | Developing inner strength through disciplined practice. |
+
+!-->
