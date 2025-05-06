@@ -67,6 +67,11 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 ### 🧭 Activities
 - IEEE Internet of Things Journal, Associate Editor
 - Program Committee Member / Technical Program Committee
+- <ul style="margin:0; padding:0;">
+  <li>IEEE SMC Technical Committee on Homeland Security (TCHS)</li>
+  <li>#####  IEEE International Conference on Cyber Security and resilience</li>
+  <li>Item 3</li>
+</ul>
   - ##### IEEE SMC Technical Committee on Homeland Security (TCHS)
   - #####  IEEE International Conference on Cyber Security and resilience
   - ##### IEEE International Conference on Cyber Humanities
