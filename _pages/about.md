@@ -68,16 +68,13 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 - IEEE Internet of Things Journal, Associate Editor
 - Program Committee Member / Technical Program Committee
 - <ul style="margin:0; padding:0;">
-  <li>IEEE SMC Technical Committee on Homeland Security (TCHS)</li>
-  <li>#####  IEEE International Conference on Cyber Security and resilience</li>
-  <li>Item 3</li>
+  <li><small>IEEE SMC Technical Committee on Homeland Security (TCHS)</small></li>
+  <li><small>IEEE International Conference on Cyber Security and resilience</small></li>
+  <li><small>IEEE International Conference on Cyber Humanities</small></li>
+  <li><small>IEEE International Conference on Human-Machine Systems</small></li>
+  <li><small>The International Workshop on “Artificial Intelligence for RAILwayS”</small></li>
+  <li><small>International Conference on Innovative Structure and Resilient City</small></li>
 </ul>
-  - ##### IEEE SMC Technical Committee on Homeland Security (TCHS)
-  - #####  IEEE International Conference on Cyber Security and resilience
-  - ##### IEEE International Conference on Cyber Humanities
-  - ##### IEEE International Conference on Human-Machine Systems
-  - ##### The International Workshop on “Artificial Intelligence for RAILwayS”
-  - ##### International Conference on Innovative Structure and Resilient City
 
 
 🚀 _Last updated: [2025/05/01]_  
