@@ -72,7 +72,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
   - IEEE International Conference on Cyber Humanities
   - IEEE International Conference on Human-Machine Systems
   - The International Workshop on “Artificial Intelligence for RAILwayS”
-  - International Conference on Innovative Structure and Resilient City (ISRC 2025)
+  - International Conference on Innovative Structure and Resilient City
 
 
 🚀 _Last updated: [2025/05/01]_  
