@@ -69,11 +69,11 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 - Program Committee / Technical Program Committee Member
   <ul style="margin:0; padding:0;font-size: 10pt;">
   <li>IEEE SMC Technical Committee on Homeland Security (TCHS)</li>
-  <li><small>IEEE International Conference on Cyber Security and resilience</small></li>
-  <li><small>IEEE International Conference on Cyber Humanities</small></li>
-  <li><small>IEEE International Conference on Human-Machine Systems</small></li>
-  <li><small>The International Workshop on “Artificial Intelligence for RAILwayS”</small></li>
-  <li><small>International Conference on Innovative Structure and Resilient City</small></li>
+  <li>IEEE International Conference on Cyber Security and resilience</li>
+  <li>IEEE International Conference on Cyber Humanities</li>
+  <li>IEEE International Conference on Human-Machine Systems</li>
+  <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
+  <li>International Conference on Innovative Structure and Resilient City</li>
 </ul>
 
 
