@@ -75,10 +75,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>International Conference on Innovative Structure and Resilient City</li>
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li>
--
   
-
-
 
 
 🚀 _Last updated: [2025/05/01]_  
