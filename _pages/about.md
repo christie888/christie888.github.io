@@ -65,7 +65,7 @@ More Publications 👉 [Google Scholar](https://scholar.google.com/citations?use
 ---
 
 ### 🧭 Activities
-- IEEE Internet of Things Journal, Associate Editor
+- Associate Editor, IEEE Internet of Things Journal
 - (Technical) Program Committee / Organizer
   <ul style="margin:0; padding:0;font-size: 10pt;">
   <li>IEEE SMC Technical Committee on Homeland Security (TCHS)</li>
