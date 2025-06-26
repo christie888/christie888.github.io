@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Post"
+title: "Post & News"
 permalink: post/
 ---
 
