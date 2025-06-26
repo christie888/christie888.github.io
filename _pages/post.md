@@ -4,7 +4,9 @@ title: "Post"
 permalink: post/
 ---
 
-* #### 📢 第45回交通工学研究発表会にて、以下の論文が **口頭発表（査読付き）**で採択されました！
+* #### 📢	2025/04/15 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentorに選ばれました！
+
+* #### 📢 2025/06/15 第45回交通工学研究発表会にて、以下の論文が **口頭発表（査読付き）**で採択されました！
 
 ```
 経路検索履歴データを用いた高速道路上での長期的な渋滞予測
@@ -20,7 +22,7 @@ permalink: post/
 🔗 #交通工学 #渋滞予測 #論文採択 #ITS #研究発表
 ```
 
-* #### 📢 交通工学研究会機関誌｢交通工学｣特集号『オーバーツーリズムに対応した持続可能な観光交通』第60巻3号(2025年7月1日発行) にて論文を発行されました！
+* #### 📢　2025/4/23 交通工学研究会機関誌｢交通工学｣特集号『オーバーツーリズムに対応した持続可能な観光交通』第60巻3号(2025年7月1日発行) にて論文を発行されます！
 
 ```
 高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析
@@ -35,7 +37,9 @@ permalink: post/
 🔗 #交通渋滞　#観光渋滞　#経路検索　#ビックデータ解析　#データマイニング
 ```
 
-* #### 📢	2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentorに選ばれました！
+* #### 📢 2024/10/15 IEEE Internet of Things Journal, Associate Editor をお引き受けすることになりました！
+
+* #### 📢 2024/8/15 情報処理学会誌・Journal of Information Processing　“K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks“を 特別選考論文賞・Award of Specially Selected Paper に選ばれました！
 
 
 <!--
