@@ -25,6 +25,8 @@ permalink: post/
 🔗 #交通渋滞　#観光渋滞　#経路検索　#ビックデータ解析　#データマイニング
 ```
 
+* #### 📢	2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentorに選ばれました！
+
 
 
 <!--
