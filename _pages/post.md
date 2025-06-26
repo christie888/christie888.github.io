@@ -22,9 +22,7 @@ permalink: post/
 観光繁忙期における検索数を抽出したうえで、交通量との相関関係を分析した。
 🔗 #交通渋滞　#観光渋滞　#経路検索　#ビックデータ解析　#データマイニング
 ```
-
 * #### 📢	2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentorに選ばれました！
-
 
 
 <!--
