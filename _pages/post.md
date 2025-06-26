@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/94fc4955-35ef-4245-a8f0-691fbd7a0410)---
 layout: archive
 title: "Post"
 permalink: post/
