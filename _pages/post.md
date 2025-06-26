@@ -10,9 +10,9 @@ permalink: post/
 * #####  📌 2025/03/20 電気通信普及財団にて研究調査助成を獲得しました！
 * #####  📌 2025/03/03 令和7年度科研費 若手研究費を獲得しました！
 * #####  📌 2025/02/23 Xiaojie Yang,  <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka,”CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events”, 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accpeted　されました！
-* #####  📌 2024/12/25  <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka “FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction” In 2024 IEEE International Conference on Big Data (BigData) 論文発表をしました！
+* #####  📌 2024/12/25 <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka “FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction” In 2024 IEEE International Conference on Big Data (BigData) 論文発表をしました！
 * #####  📌 2024/10/15 IEEE Internet of Things Journal, Associate Editor をお引き受けすることになりました！
-* #####  📌 2024/08/15 情報処理学会誌・Journal of Information Processing　“K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks“を 特別選考論文賞・Award of Specially Selected Paper に選ばれました！
+* #####  📌 2024/08/15 <mark>Ge Hangli</mark>, Takashi Michikata, and Noboru Koshizuka. “K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks“を情報処理学会誌・Journal of Information Processingの特別選考論文賞・Award of Specially Selected Paper に選ばれました！
 
 
 <!--
