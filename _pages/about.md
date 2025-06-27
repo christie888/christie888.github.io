@@ -80,7 +80,12 @@ More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAA
   <li>International Conference on Innovative Structure and Resilient City</li>
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li>
   
-
+### Professional Memberships
+- Member, IEEE (Institute of Electrical and Electronics Engineers)  
+- Member, ACM (Association for Computing Machinery)
+- Member, 交通工学研究会　The Japan Society of Traffic Engineers (JSTE)  
+- Member, 情報処理学会　IPSJ (Information Processing Society of Japan)
+- Menber, 土木学会　Japan Society of Civil Engineers (JSCE)
 
 🚀 _Last updated: [2025/05/01]_  
 
