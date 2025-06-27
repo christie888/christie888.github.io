@@ -30,8 +30,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 
 ---
 
-### 📝 Recent Publications
-More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+### 📝 Recent Publications; More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
 * ##### Xiaojie Yang,  <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, [Video](https://www.youtube.com/watch?app=desktop&v=IcIBC8BZ45Y&ab_channel=AssociationforComputingMachinery%28ACM%29)
 * #####  <mark>Ge, Hangli</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, and Noboru Koshizuka.  **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction."** In 2024 IEEE International Conference on Big Data (BigData), pp. 6842-6849. IEEE, 2024.
@@ -82,12 +81,11 @@ More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAA
   
 ### 🪪 Professional Memberships
  <ul style="margin:0; padding:0;font-size: 10pt;">
-  <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
   <li>Member, ACM (Association for Computing Machinery)</li>
-  <li>Member, 情報処理学会　IPSJ (Information Processing Society of Japan)</li>
-  <li>Member, 交通工学研究会　The Japan Society of Traffic Engineers (JSTE)  </li>
-  <li>Menber, 土木学会　Japan Society of Civil Engineers (JSCE)</li>
+  <li>Member, 情報処理学会 IPSJ (Information Processing Society of Japan)</li>
+  <li>Member, 交通工学研究会 The Japan Society of Traffic Engineers (JSTE)  </li>
+  <li>Menber, 土木学会 Japan Society of Civil Engineers (JSCE)</li>
 </li></ul>
 
   
