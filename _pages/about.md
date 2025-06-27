@@ -79,7 +79,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   <li>International Conference on Innovative Structure and Resilient City</li>
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
   
-### 🪪 Professional Memberships
+### 🪪 Professional Memberships｜学会所属
  <ul style="margin:0; padding:0;font-size: 10pt;">
   <li>Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
   <li>Member, ACM (Association for Computing Machinery)</li>
