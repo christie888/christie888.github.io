@@ -78,14 +78,17 @@ More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAA
   <li>IEEE International Conference on Human-Machine Systems</li>
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>International Conference on Innovative Structure and Resilient City</li>
-  <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li>
+  <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
   
 ### 🪪 Professional Memberships
-- Member, IEEE (Institute of Electrical and Electronics Engineers)  
-- Member, ACM (Association for Computing Machinery)
-- Member, 交通工学研究会　The Japan Society of Traffic Engineers (JSTE)  
-- Member, 情報処理学会　IPSJ (Information Processing Society of Japan)
-- Menber, 土木学会　Japan Society of Civil Engineers (JSCE)
+ <ul style="margin:0; padding:0;font-size: 10pt;">
+  <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
+  <li>Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
+  <li>Member, ACM (Association for Computing Machinery)</li>
+  <li>Member, 情報処理学会　IPSJ (Information Processing Society of Japan)</li>
+  <li>Member, 交通工学研究会　The Japan Society of Traffic Engineers (JSTE)  </li>
+  <li>Menber, 土木学会　Japan Society of Civil Engineers (JSCE)</li>
+</li></ul>
 
   
 
