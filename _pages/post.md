@@ -13,13 +13,15 @@ permalink: post/
 * #####  📌 2025/04/10 <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”, 2025, 20th European Dependable Computing Conference, 論文発表をしました！
 * > ###### Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025).
 * #####  📌 2025/03/20 電気通信普及財団にて研究調査助成を獲得しました！
-  * > ###### Awarded a Research Grant from the Telecommunication Advancement Foundation.
+  * > ###### Awarded a Research Grant from the Telecommunication Advancement Foundation　in the role of Principal-Investigator.
+* #####  📌 2025/03/16 しのはら財団にて研究調査助成を獲得しました（分担者）！
+  * > ###### Awarded a research grant from the Shinohara Memorial Foundation in the role of Co-Investigator.
 * #####  📌 2025/03/03 令和7年度科研費 若手研究費を獲得しました！
-  * > ######  Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025).
+  * > ######  Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025)　in the role of Principal-Investigator.
 * #####  📌 2025/02/23 Xiaojie Yang, <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka,”CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events”, 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, Accepted　されました！
   * > ######  Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka: "CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events" has been accepted at the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
 * #####  📌 2024/12/25 <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka “FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction” In 2024 IEEE International Conference on Big Data (BigData) 論文発表をしました！
-  * > ######  Hangli Ge, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, and Noboru Koshizuka: Presented the paper "FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction" at the 2024 IEEE International Conference on Big Data (BigData 2024).
+  * > ###### Presented the paper "FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction" at the 2024 IEEE International Conference on Big Data (BigData 2024).
 * #####  📌 2024/10/15 IEEE Internet of Things Journal, Associate Editor をお引き受けすることになりました！
   * > ###### Appointed as an Associate Editor of the IEEE Internet of Things Journal.
 * #####  📌 2024/08/15 <mark>Ge Hangli</mark>, Takashi Michikata, and Noboru Koshizuka. “K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks“を情報処理学会誌・Journal of Information Processingの特別選考論文賞・Award of Specially Selected Paper に選ばれました！
