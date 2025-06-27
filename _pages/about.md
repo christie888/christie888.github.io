@@ -14,7 +14,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 
 
 📚 Research Topics
-I am specializing in the following research areas:
+<br>I am specializing in the following research areas:
  
 **✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
 > Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed (PI) AI integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
