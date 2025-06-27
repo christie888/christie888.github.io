@@ -4,7 +4,8 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
-* #####  📌 2025/06/15 松永 惟月， <mark>葛 杭麗</mark>, 小杉 雄斗，市川 暢之，川﨑 健史，越塚 登　“経路検索履歴データを用いた高速道路上での長期的な渋滞予測”　を第45回交通工学研究発表会にて　口頭発表（査読付き）採択されました！<br>  >###### Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka “Long-term Traffic Congestion Prediction on Expressways Using Route Search History Data" has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).
+* #####  📌 2025/06/15 松永 惟月， <mark>葛 杭麗</mark>, 小杉 雄斗，市川 暢之，川﨑 健史，越塚 登　“経路検索履歴データを用いた高速道路上での長期的な渋滞予測”　を第45回交通工学研究発表会にて　口頭発表（査読付き）採択されました！
+  > ###### Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka “Long-term Traffic Congestion Prediction on Expressways Using Route Search History Data" has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).
 * #####  📌	2025/05/15 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentorに選ばれました！
   > ###### Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program.
 * #####  📌 2025/04/23 <mark>葛 杭麗</mark>, 羽多野 一磨, 市川 暢之, 川﨑 健史,越塚 登、” 高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析”を　交通工学研究会機関誌｢交通工学｣特集号『オーバーツーリズムに対応した持続可能な観光交通』第60巻3号(2025年7月1日発行) にて論文を発行されます！
