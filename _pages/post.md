@@ -29,7 +29,6 @@ permalink: post/
 * #####  📌 2024/08/15 <mark>Ge Hangli</mark>, Takashi Michikata, and Noboru Koshizuka. “K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks“を情報処理学会誌・Journal of Information Processingの特別選考論文賞・Award of Specially Selected Paper に選ばれました！
   > ###### Awarded the Award of Specially Selected Paper by the Journal of Information Processing (IPSJ Journal).
 
-
 ---
 
 ### 📝 Recent Publications; More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
