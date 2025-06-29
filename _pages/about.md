@@ -62,7 +62,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
   
 ### 🪪 Professional Memberships｜学会所属
-- <ul style="margin:0; padding:0;font-size: 10pt;">
+ <ul style="margin:0; padding:0;font-size: 10pt;">
     <li>Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
     <li>Member, ACM (Association for Computing Machinery)</li>
     <li>Member, 情報処理学会 IPSJ (Information Processing Society of Japan)</li>
