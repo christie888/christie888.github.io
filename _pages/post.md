@@ -30,7 +30,7 @@ permalink: post/
 
 ---
 
-### 📝 Recent Publications; More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 * #####  <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, **"A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption"** – AI4RAILS 6th International Workshop on “Artificial Intelligence for RAILwayS” colocated with EDCC, 2025, Accpeted.
 * ##### Xiaojie Yang,  <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka, **"CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events"**, - 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, [Video](https://www.youtube.com/watch?app=desktop&v=IcIBC8BZ45Y&ab_channel=AssociationforComputingMachinery%28ACM%29)
 * #####  <mark>Ge, Hangli</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, and Noboru Koshizuka.  **"FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction."** In 2024 IEEE International Conference on Big Data (BigData), pp. 6842-6849. IEEE, 2024.
