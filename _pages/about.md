@@ -68,7 +68,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
     <li>Member, ACM (Association for Computing Machinery)</li>
     <li>Member, 情報処理学会 IPSJ (Information Processing Society of Japan)</li>
     <li>Member, 交通工学研究会 The Japan Society of Traffic Engineers (JSTE)  </li>
-    <li>Menber, 土木学会 Japan Society of Civil Engineers (JSCE)</li>
+    <li>Member, 土木学会 Japan Society of Civil Engineers (JSCE)</li>
 </ul>
 
 <br><br><br><br>
