@@ -55,7 +55,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 - (Technical) Program Committee / Organizer
   <ul style="margin:0; padding:0;font-size: 10pt;">
   <li>IEEE SMC Technical Committee on Homeland Security (TCHS)</li>
-  <li>IEEE International Conference on Cyber Security and resilience</li>
+  <li>IEEE International Conference on Cyber Security and Resilience</li>
   <li>IEEE International Conference on Cyber Humanities</li>
   <li>IEEE International Conference on Human-Machine Systems</li>
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
