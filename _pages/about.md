@@ -17,8 +17,8 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 📚 Research Topics
 <br>I am specializing in the following research areas:
  
-**✨Topic 1: Physics-informed (PI)-AI for Traffic/Congestion Prediction**
-> Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed (PI) AI integrates fundamental traffic flow theories into machine learning models. This ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
+**✨Topic 1: Physics-informed (PI)-AI for Traffic/Mobility/Congestion Prediction**
+> Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed (PI) AI integrates fundamental traffic or human mobility flow theories into deep learning models, ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
 **✨Topic 2: Digital Twin (DT) for Urban Resillience**
 > DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating data both from cyber and physical space with efficient AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption and maxmizing economic efficiency and so on.
