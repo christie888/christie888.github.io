@@ -7,7 +7,7 @@ permalink: post/
 
 
 * #####  📌 2025/07/05 <mark>葛 杭麗</mark>、越塚 登の論文「Deep Unfolding for MIMO Signal Detection」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)に採択されました。　
-  > ###### Hangli Ge, Noboru Koshizuka’s paper “Deep Unfolding for MIMO Signal Detection" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
+  > ###### <mark>Hangli Ge</mark>, Noboru Koshizuka’s paper “Deep Unfolding for MIMO Signal Detection" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
 * #####  📌 2025/07/05 <mark>葛 杭麗</mark>、森大晃、千葉　彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025）に採択されました。　
   > ###### <mark>Hangli Ge</mark>, Hiroaki Mori, Yasuhira Chiba, Noboru Koshizuka’s paper “Realizing Space-Oriented Control in Smart Buildings via Word Embeddings" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
 * #####  📌 2025/07/05 Francesco Flammini, <mark>Hangli Ge</mark>’s paper “Trustworthy Autonomous Wheelchair-Drone Systems: Use-Case Concept and Perspectives" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
