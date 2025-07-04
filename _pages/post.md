@@ -6,9 +6,9 @@ permalink: post/
 
 
 
-* #####  📌 <mark>葛 杭麗</mark>、越塚 登の論文「Deep Unfolding for MIMO Signal Detection」が、** 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**に採択されました。　
+* #####  📌 <mark>葛 杭麗</mark>、越塚 登の論文「Deep Unfolding for MIMO Signal Detection」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)に採択されました。　
   > ###### Hangli Ge, Noboru Koshizuka’s paper “Deep Unfolding for MIMO Signal Detection" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
-* #####  📌 <mark>葛 杭麗</mark>、森大晃、千葉　彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が、** 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025）**に採択されました。　
+* #####  📌 <mark>葛 杭麗</mark>、森大晃、千葉　彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025）に採択されました。　
   > ###### <mark>Hangli Ge</mark>, Hiroaki Mori, Yasuhira Chiba, Noboru Koshizuka’s paper “Realizing Space-Oriented Control in Smart Buildings via Word Embeddings" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
 * #####  📌　Francesco Flammini, </mark>Hangli Ge</mark>’s paper “Trustworthy Autonomous Wheelchair-Drone Systems: Use-Case Concept and Perspectives" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
 * #####  📌 2025/07/01 <mark>葛 杭麗</mark>, 羽多野 一磨, 市川 暢之, 川﨑 健史, 越塚 登 ”高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析”が　交通工学研究会機関誌｢交通工学｣特集号『オーバーツーリズムに対応した持続可能な観光交通』第60巻3号(2025年7月1日発行) にて掲載されました。
