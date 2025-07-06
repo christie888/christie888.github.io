@@ -10,7 +10,7 @@ redirect_from:
 ## 👤 About Me
 ---
 My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer at the University of Tokyo. My research topics include ubiquitous computing, IoT, signal processing, spatio-temporal big data, knowledge graph, especially in the fields of smart city, traffic optimization, urban computing, digital twin, etc. I also have R&D experience in the telecommunication industry.
-#### 🎓 Doctor of Information studies, Interdisciplinary Information studies from The University of Tokyo in 2019 <br> Graduate Program for Social ICT Global Creative Leaders <br>📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo 
+#### 🎓 Doctor of Information studies, Interdisciplinary Information studies from The University of Tokyo in 2019 <br>    Graduate Program for Social ICT Global Creative Leaders The University of Tokyo Program for Leading Graduate Schools <br>📍 Affiliation: Interfaculty Initiative in Information Studies, The University of Tokyo 
 
 ---
 
