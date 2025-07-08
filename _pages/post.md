@@ -5,8 +5,8 @@ permalink: post/
 ---
 
 
-* #####  📢 2025/07/06 東京大学と香港理工大学の国際共催シンポジウム"International Collaboration on Climate-Resilient Infrastructure and Smart City" にて、「Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement」と題して講演を行います。 [詳細]:(https://hanglige.online/files/20250706Poster_UTokyonew.pdf)
- > ###### Hornered to be invited to give a talk titled "Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement" at the joint international symposium "International Collaboration on Climate-Resilient Infrastructure and Smart City", co-hosted by the University of Tokyo and The Hong Kong Polytechnic University.
+* #####  📢 2025/07/06 東京大学と香港理工大学の国際共催シンポジウム"International Collaboration on Climate-Resilient Infrastructure and Smart City" にて、「Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement」と題して講演を行います。 [詳細](https://hanglige.online/files/20250706Poster_UTokyonew.pdf)
+  > ###### Hornered to be invited to give a talk titled "Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement" at the joint international symposium "International Collaboration on Climate-Resilient Infrastructure and Smart City", co-hosted by the University of Tokyo and The Hong Kong Polytechnic University.[Details](https://hanglige.online/files/20250706Poster_UTokyonew.pdf)
 * #####  📌 2025/07/04 <mark>葛 杭麗</mark>、越塚 登の論文「Deep Unfolding for MIMO Signal Detection」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)に採択されました。　
   > ###### <mark>Hangli Ge</mark>, Noboru Koshizuka’s paper “Deep Unfolding for MIMO Signal Detection" has been accepted for the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)
 * #####  📌 2025/07/04 <mark>葛 杭麗</mark>、森大晃、千葉　彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が、2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025）に採択されました。　
