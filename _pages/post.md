@@ -23,8 +23,8 @@ permalink: post/
   > ###### Itsuki Matsunaga, <mark>Hangli Ge</mark>, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka “Long-term Traffic Congestion Prediction on Expressways Using Route Search History Data" has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).
 * #####  📌	2025/05/15 <mark>2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentor</mark>に選ばれました。
   > ###### Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program.
-* #####  📌 2025/04/10 <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”, 2025, 20th European Dependable Computing Conference, 論文発表をしました。
-  > ###### Presented the paper <mark>“A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025)</mark>.
+* #####  📌 2025/04/10 <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, <mark>“A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”</mark>, 2025, 20th European Dependable Computing Conference, 論文発表をしました。
+  > ###### Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025).
 * #####  📌 2025/03/20 <mark>電気通信普及財団にて研究調査助成</mark>を獲得しました。
   > ###### Awarded a Research Grant from the Telecommunication Advancement Foundation　in the role of Principal-Investigator.
 * #####  📌 2025/03/16 <mark>しのはら財団にて研究調査助成</mark>を獲得しました（分担者）。
