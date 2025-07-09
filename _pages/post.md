@@ -33,7 +33,7 @@ permalink: post/
   > ######  Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025)in the role of Principal-Investigator.
 * #####  📌 2025/02/23 Xiaojie Yang, <mark>Hangli Ge</mark>, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka,”CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events”, 2025, 31st SIGKDD Conference on Knowledge Discovery and Data Mining, 採択されました。
   > ######  Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka: "CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events" has been accepted at the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
-* #####  📌 2024/12/25 <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka “FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction” In 2024 IEEE International Conference on Big Data (BigData) 論文発表をしました。
+* #####  📌 2024/12/25 <mark>Hangli Ge</mark>, Xiaojie Yang, Itsuki Matsunaga, Dizhi Huang, Noboru Koshizuka <mark>“FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction”</mark> In 2024 IEEE International Conference on Big Data (BigData) 論文発表をしました。
   > ###### Presented the paper "FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction" at the 2024 IEEE International Conference on Big Data (BigData 2024).
 * #####  📌 2024/10/15 IEEE Internet of Things Journal, Associate Editor をお引き受けすることになりました。
   > ###### Appointed as an Associate Editor of the IEEE Internet of Things Journal.
