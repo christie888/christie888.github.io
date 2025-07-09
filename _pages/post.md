@@ -26,7 +26,7 @@ permalink: post/
 * #####  📌 2025/04/10 <mark>Hangli Ge</mark>, Xiaojie Yang, Jinyu Chen, Francesco Flammini, Noboru Koshizuka, <mark>“A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”</mark>, 2025, 20th European Dependable Computing Conference, 論文発表をしました。
   > ###### Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025).
 * #####  📌 2025/03/20 <mark>電気通信普及財団にて研究調査助成</mark>を獲得しました。
-  > ###### Awarded a Research Grant from the Telecommunication Advancement Foundation　in the role of Principal-Investigator.
+  > ###### Awarded a Research Grant from the Telecommunication Advancement Foundation in the role of Principal-Investigator.
 * #####  📌 2025/03/16 <mark>しのはら財団にて研究調査助成</mark>を獲得しました（分担者）。
   > ###### Awarded a research grant from the Shinohara Memorial Foundation in the role of Co-Investigator.
 * #####  📌 2025/03/03 <mark>令和7年度科研費 若手研究費</mark>を獲得しました。
