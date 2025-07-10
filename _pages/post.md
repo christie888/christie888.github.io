@@ -5,7 +5,7 @@ permalink: post/
 ---
 
 
-* #####  📌 林 立楓、葛 杭麗、越塚 登の論文　"Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction"が28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Trackに採択されました。
+* #####  📌 2025/07/10 林 立楓、葛 杭麗、越塚 登の論文　"Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction"が28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Trackに採択されました。
  > ###### Lifeng Lin, Hangli Ge, Noboru Koshizuka’s paper “Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction" has been accepted for  28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Track
 * #####  📢 2025/07/06 東京大学と香港理工大学の国際共催シンポジウム  "International Collaboration on Climate-Resilient Infrastructure and Smart City" にて、 「Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement」 と題して講演を行います。 [詳細](https://hanglige.online/files/20250706Poster_UTokyo.jpg)
   > ###### Hornered to be invited to give a talk titled *"Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement"* at the joint international symposium **"International Collaboration on Climate-Resilient Infrastructure and Smart City"**, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University.[Details](https://hanglige.online/files/20250706Poster_UTokyo.jpg)
