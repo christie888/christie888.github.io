@@ -5,7 +5,7 @@ permalink: post/
 ---
 
 
-* #####  📌 2025/08/01 林 立楓、葛 杭麗、道方孝志、羽多野 一磨、柴崎亮介、越塚 登の論文　"Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction"が ACM SIGSPATIAL 2025  Industry Papers Trackに採択されました。
+* #####  📌 2025/08/01 林 立楓、葛 杭麗、道方孝志、羽多野 一磨、柴崎亮介、越塚 登の論文　"Robust and Efficient Human Mobility Data Processing through the Len of Topological Persistence"が ACM SIGSPATIAL 2025  Industry Papers Trackに採択されました。
   > ###### Lifeng Lin, Hangli Ge, Takashi Michikata, Kazuma Hatano, Ryosuke Shibasaki, Noboru Koshizuka’s paper “Robust and Efficient Human Mobility Data Processing through the Len of Topological Persistence" has been accepted for  ACM SIGSPATIAL 2025  Industry Papers
 * #####  📌 2025/07/10 林 立楓、葛 杭麗、越塚 登の論文　"Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction"が28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Trackに採択されました。
   > ###### Lifeng Lin, Hangli Ge, Noboru Koshizuka’s paper “Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction" has been accepted for  28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Track
