@@ -4,7 +4,10 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
-
+* #####  📌 2025/08/05 天野克敏、葛 杭麗、千葉　彌平、越塚 登の論文"Smart Building-Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration"が 2025 IEEE International Smart Cities Conference (ISC2 2025)に採択されました。
+  > ###### Katsutoshi Amano, Hangli Ge, Yasuhira Chiba and Noboru Koshizuka “Smart Building-Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted for 2025 IEEE International Smart Cities Conference (ISC2 2025)
+* #####  📌 2025/08/05 千葉　彌平、葛 杭麗、天野克敏、越塚 登の論文"Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations"が 2025 IEEE International Smart Cities Conference (ISC2 2025)に採択されました。
+  > ###### Yasuhira Chiba, Hangli Ge, Katsutoshi Amano and Noboru Koshizuka“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations” has been accepted for 2025 IEEE International Smart Cities Conference (ISC2 2025)
 * #####  📌 2025/08/01 林 立楓、葛 杭麗、道方孝志、羽多野 一磨、柴崎亮介、越塚 登の論文　"Robust and Efficient Human Mobility Data Processing through the Len of Topological Persistence"が International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025) Industry Papers Trackに採択されました。
   > ###### Lifeng Lin, Hangli Ge, Takashi Michikata, Kazuma Hatano, Ryosuke Shibasaki, Noboru Koshizuka’s paper “Robust and Efficient Human Mobility Data Processing through the Len of Topological Persistence" has been accepted for International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025) Industry Papers
 * #####  📌 2025/07/10 林 立楓、葛 杭麗、越塚 登の論文　"Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction"が28th European Conference of Artificial Intelligence (ECAI-2025) PAIS (Prestigious Applications of Intelligent Systems) Trackに採択されました。
