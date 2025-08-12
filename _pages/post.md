@@ -4,7 +4,7 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
-* #####  📌 2025/08/12 楊 曉傑, Tao, Yicheng, 葛 杭麗, Zipei Fan,  Akerkar, Rajendra, 越塚 登の論文"LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction"が IEEE Transactions on Intelligent Transportation Systems にREGULAR PAPERとして採択されました。
+* #####  📌 2025/08/12 楊 曉傑, Tao Yicheng, 葛 杭麗, Zipei Fan,  Akerkar Rajendra, 越塚 登の論文"LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction"が IEEE Transactions on Intelligent Transportation Systems にREGULAR PAPERとして採択されました。
   > ###### Yang, Xiaojie; Tao, Yicheng; Hangli , Ge ; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru “LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction”has been accepted for publication as a REGULAR PAPER in the IEEE Transactions on Intelligent Transportation Systems. 
 * #####  📌 2025/08/05 天野克敏、葛 杭麗、千葉　彌平、越塚 登の論文"Smart Building-Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration"が 2025 IEEE International Smart Cities Conference (ISC2 2025)に採択されました。
   > ###### Katsutoshi Amano, Hangli Ge, Yasuhira Chiba and Noboru Koshizuka “Smart Building-Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted for 2025 IEEE International Smart Cities Conference (ISC2 2025)
