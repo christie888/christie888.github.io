@@ -4,6 +4,100 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
+##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru  
+“LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction” has been accepted for publication in the IEEE Transactions on Intelligent Transportation Systems (Regular Paper).  
+> ###### 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登の論文「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に Regular Paper として採択されました。
+
+##### 📌 2025/08/05 Katsutoshi Amano; Hangli Ge; Yasuhira Chiba; Noboru Koshizuka  
+“Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
+> ###### 天野 克敏、葛 杭麗、千葉 彌平、越塚 登の論文「Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration」が 2025 IEEE International Smart Cities Conference (ISC2 2025) に採択されました。
+
+##### 📌 2025/08/05 Yasuhira Chiba; Hangli Ge; Katsutoshi Amano; Noboru Koshizuka  
+“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
+> ###### 千葉 彌平、葛 杭麗、天野 克敏、越塚 登の論文「Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations」が 2025 IEEE International Smart Cities Conference (ISC2 2025) に採択されました。
+
+##### 📌 2025/08/01 Lifeng Lin; Hangli Ge; Takashi Michikata; Kazuma Hatano; Ryosuke Shibasaki; Noboru Koshizuka  
+“Robust and Efficient Human Mobility Data Processing through the Lens of Topological Persistence” has been accepted at the International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025), Industry Papers Track.  
+> ###### 林 立楓、葛 杭麗、道方 孝志、羽多野 一磨、柴崎 亮介、越塚 登の論文「Robust and Efficient Human Mobility Data Processing through the Lens of Topological Persistence」が International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025) Industry Papers Track に採択されました。
+
+##### 📌 2025/07/10 Lifeng Lin; Hangli Ge; Noboru Koshizuka  
+“Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction” has been accepted at the 28th European Conference of Artificial Intelligence (ECAI 2025), PAIS (Prestigious Applications of Intelligent Systems) Track.  
+> ###### 林 立楓、葛 杭麗、越塚 登の論文「Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction」が 28th European Conference of Artificial Intelligence (ECAI 2025) PAIS Track に採択されました。
+
+##### 📌 2025/07/06 Honored to be invited to give a talk titled  
+“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”  
+at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.online/files/20250706Poster_UTokyo.jpg)  
+> ###### 東京大学と香港理工大学の国際共催シンポジウム「International Collaboration on Climate-Resilient Infrastructure and Smart City」にて、「Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement」と題して講演を行いました。[詳細](https://hanglige.online/files/20250706Poster_UTokyo.jpg)
+
+##### 📌 2025/07/04 Hangli Ge; Noboru Koshizuka  
+“Deep Unfolding for MIMO Signal Detection” has been accepted at the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025).  
+> ###### 葛 杭麗、越塚 登の論文「Deep Unfolding for MIMO Signal Detection」が 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025) に採択されました。
+
+##### 📌 2025/07/04 Hangli Ge; Hiroaki Mori; Yasuhira Chiba; Noboru Koshizuka  
+“Realizing Space-Oriented Control in Smart Buildings via Word Embeddings” has been accepted at the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025).  
+> ###### 葛 杭麗、森 大晃、千葉 彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025) に採択されました。
+
+##### 📌 2025/07/04 Francesco Flammini; Hangli Ge  
+“Trustworthy Autonomous Wheelchair–Drone Systems: Use-Case Concept and Perspectives” has been accepted at the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025).  
+
+##### 📌 2025/07/01 Hangli Ge; Kazuma Hatano; Nobuyuki Ichikawa; Takeshi Kawasaki; Noboru Koshizuka  
+“Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges” has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of the journal 交通工学 (Traffic Engineering), Vol. 60, No. 3 (issued on July 1, 2025).  
+> ###### 葛 杭麗、羽多野 一磨、市川 暢之、川﨑 健史、越塚 登の論文「高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析」が、交通工学誌 特集号「オーバーツーリズムに対応した持続可能な観光交通」第60巻3号に掲載されました。
+
+##### 📌 2025/06/30 Hangli Ge; Zipei Fan; Xiaojie Yang; Francesco Flammini; Noboru Koshizuka  
+“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience” has been accepted at the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC).  
+> ###### 葛 杭麗、Zipei Fan、楊 曉傑、Francesco Flammini、越塚 登の論文「Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience」が 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) に採択されました。
+
+##### 📌 2025/06/30 Hangli Ge; Huang Dizhi; Xiaojie Yang; Lifeng Lin; Kazuma Hatano; Takeshi Kawasaki; Noboru Koshizuka  
+“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis” has been accepted at the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Track: Work-in-Progress and Industrial Papers.  
+> ###### 葛 杭麗、黄 滌之、楊 曉傑、林 立楓、羽多野 一磨、川﨑 健史、越塚 登の論文「Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis」が 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) Track: Work-in-Progress and Industrial Papers に採択されました。
+
+##### 📌 2025/06/30 Rosario Gaeta; Franca Corradini; Massimo De Santo; Francesco Flammini; Hangli Ge  
+“Improving Situation Awareness and Self-Adaptation in Autonomous Wheelchair–Drone Systems through Floor Surface Anomaly Detection” has been accepted at the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC).  
+
+##### 📌 2025/06/15 Itsuki Matsunaga; Hangli Ge; Yuto Kosugi; Nobuyuki Ichikawa; Takeshi Kawasaki; Noboru Koshizuka  
+“Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data” has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).  
+> ###### 松永 惟月、葛 杭麗、小杉 雄斗、市川 暢之、川﨑 健史、越塚 登の論文「経路検索履歴データを用いた高速道路上での長期的な渋滞予測」が第45回交通工学研究発表会にて査読付き口頭発表として採択されました。
+
+##### 📌 2025/05/15 Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program.  
+> ###### 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring にて Mentor に選ばれました。
+
+##### 📌 2025/04/10 Presented the paper  
+“A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”  
+at the 20th European Dependable Computing Conference (EDCC 2025).  
+
+##### 📌 2025/03/20 Awarded a Research Grant from the Telecommunication Advancement Foundation as Principal Investigator.  
+> ###### 電気通信普及財団にて研究調査助成を獲得しました（代表）。
+
+##### 📌 2025/03/16 Awarded a Research Grant from the Shinohara Memorial Foundation as Co-Investigator.  
+> ###### しのはら財団にて研究調査助成を獲得しました（分担者）。
+
+##### 📌 2025/03/03 Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025) as Principal Investigator.  
+> ###### 令和7年度科研費 若手研究を獲得しました（代表）。
+
+##### 📌 2025/02/23 Xiaojie Yang; Hangli Ge; Jiawei Wang; Zipei Fan; Renhe Jiang; Ryosuke Shibasaki; Noboru Koshizuka  
+“CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events” has been accepted at the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).  
+> ###### 楊 曉傑、葛 杭麗、王 家偉、Zipei Fan、Renhe Jiang、柴崎 亮介、越塚 登の論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」が 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025) に採択されました。
+
+##### 📌 2024/12/25 Presented the paper  
+“FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction”  
+at the 2024 IEEE International Conference on Big Data (BigData 2024).  
+> ###### 葛 杭麗、楊 曉傑、松永 惟月、黄 滌之、越塚 登の論文「FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction」を 2024 IEEE International Conference on Big Data (BigData 2024) にて発表しました。
+
+##### 📌 2024/10/15 Appointed as an Associate Editor of the IEEE Internet of Things Journal.  
+> ###### IEEE Internet of Things Journal の Associate Editor に就任しました。
+
+##### 📌 2024/08/15 Awarded the Specially Selected Paper Award by the Journal of Information Processing (IPSJ Journal).  
+> ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-Neighboring on Multi-Weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
+
+
+---
+
+### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
+
+
+<!--
+
 ##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru “LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction” has been accepted for publication as a REGULAR PAPER in the IEEE Transactions on Intelligent Transportation Systems.
 > ###### 楊 曉傑、Yicheng Tao、葛 杭麗、Zipei Fan、Akerkar Rajendra、越塚 登の論文「LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に REGULAR PAPER として採択されました。
 
@@ -50,12 +144,6 @@ permalink: post/
 > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
 
 
----
-
-### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
-
-
-<!--
 * #####  📌 2025/08/12 楊 曉傑, Tao Yicheng, 葛 杭麗, Zipei Fan,  Akerkar Rajendra, 越塚 登の論文"LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction"が IEEE Transactions on Intelligent Transportation Systems にREGULAR PAPERとして採択されました。
   > ###### Yang, Xiaojie; Tao, Yicheng; Hangli , Ge ; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru “LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction”has been accepted for publication as a REGULAR PAPER in the IEEE Transactions on Intelligent Transportation Systems. 
 * #####  📌 2025/08/05 天野克敏、葛 杭麗、千葉　彌平、越塚 登の論文"Smart Building-Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration"が 2025 IEEE International Smart Cities Conference (ISC2 2025)に採択されました。
