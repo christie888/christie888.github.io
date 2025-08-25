@@ -44,7 +44,7 @@ permalink: post/
 ##### 📌 2024/12/25 Presented the paper "FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction" at the 2024 IEEE International Conference on Big Data (BigData 2024).
 > ###### 葛 杭麗、楊 曉傑、松永 惟月、黄 滌之、越塚 登の論文「FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction」を 2024 IEEE International Conference on Big Data (BigData 2024) にて発表しました。
 ##### 📌 2024/10/15 Appointed as an Associate Editor of the IEEE Internet of Things Journal.
-IEEE Internet of Things Journal の Associate Editor に就任しました。
+> ######  IEEE Internet of Things Journal の Associate Editor に就任しました。
 ##### 📌 2024/08/15 Awarded the Award of Specially Selected Paper by the Journal of Information Processing (IPSJ Journal).
 > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
 
