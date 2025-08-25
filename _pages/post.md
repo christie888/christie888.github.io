@@ -33,7 +33,6 @@ permalink: post/
 #####  📌 2025/05/15 Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program. 
   > ###### 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring にて Mentor に選ばれました。
 #####  📌 2025/04/10 Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025).
-  > ###### 葛 杭麗、楊 曉傑、陳 晋宇、Francesco Flammini、越塚 登の論文「A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption」を第20回 European Dependable Computing Conference (EDCC 2025) にて発表しました。
 #####  📌 2025/03/20 Awarded a Research Grant from the Telecommunication Advancement Foundation in the role of Principal-Investigator.
   > ###### 電気通信普及財団にて研究調査助成を獲得しました（代表）。
 #####  📌 2025/03/16 Awarded a research grant from the Shinohara Memorial Foundation in the role of Co-Investigator.
