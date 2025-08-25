@@ -32,7 +32,22 @@ permalink: post/
   > ###### 松永 惟月、葛 杭麗、小杉 雄斗、市川 暢之、川﨑 健史、越塚 登の「経路検索履歴データを用いた高速道路上での長期的な渋滞予測」が第45回交通工学研究発表会にて口頭発表（査読付き）に採択されました。
 #####  📌 2025/05/15 Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program. 
   > ###### 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring にて Mentor に選ばれました。
-#####  📌 2025/04/10 Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20t
+#####  📌 2025/04/10 Presented the paper “A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption” at the 20th European Dependable Computing Conference (EDCC 2025).
+  > ###### 葛 杭麗、楊 曉傑、陳 晋宇、Francesco Flammini、越塚 登の論文「A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption」を第20回 European Dependable Computing Conference (EDCC 2025) にて発表しました。
+#####  📌 2025/03/20 Awarded a Research Grant from the Telecommunication Advancement Foundation in the role of Principal-Investigator.
+  > ###### 電気通信普及財団にて研究調査助成を獲得しました（代表）。
+#####  📌 2025/03/16 Awarded a research grant from the Shinohara Memorial Foundation in the role of Co-Investigator.
+  > ###### しのはら財団にて研究調査助成を獲得しました（分担者）。
+#####  📌 2025/03/03 Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025) in the role of Principal-Investigator.
+  > ###### 令和7年度科研費 若手研究を獲得しました（代表）。
+#####  📌 2025/02/23 Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka “CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events" has been accepted at the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
+  > ###### 楊 曉傑、葛 杭麗、王 家偉、Zipei Fan、Renhe Jiang、柴崎 亮介、越塚 登の論文「CausalMob: Causally Predicting Human Mobility with LLMs-derived Human Intentions toward Public Events」が 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025) に採択されました。
+#####  📌 2024/12/25 Presented the paper "FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction" at the 2024 IEEE International Conference on Big Data (BigData 2024).
+  > ###### 葛 杭麗、楊 曉傑、松永 惟月、黄 滌之、越塚 登の論文「FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction」を 2024 IEEE International Conference on Big Data (BigData 2024) にて発表しました。
+#####  📌 2024/10/15 Appointed as an Associate Editor of the IEEE Internet of Things Journal.
+IEEE Internet of Things Journal の Associate Editor に就任しました。
+#####  📌 2024/08/15 Awarded the Award of Specially Selected Paper by the Journal of Information Processing (IPSJ Journal).
+  > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-neighboring on Multi-weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
 
 
 
