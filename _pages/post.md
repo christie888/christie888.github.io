@@ -4,7 +4,9 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
-##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru  “LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction” has been accepted for publication in the IEEE Transactions on Intelligent Transportation Systems (Regular Paper).  
+##### 📌 2025/08/25 Received the Young Researcher Award from the The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)  [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
+> ###### The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)からYoung Researcher Award を受賞されました[詳細](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
+##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli, Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru  “LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction” has been accepted for publication in the IEEE Transactions on Intelligent Transportation Systems (Regular Paper).  
 > ###### 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登の論文「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に Regular Paper として採択されました。
 
 ##### 📌 2025/08/05 Katsutoshi Amano; Hangli Ge; Yasuhira Chiba; Noboru Koshizuka  “Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
