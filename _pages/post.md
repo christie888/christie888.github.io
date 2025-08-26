@@ -6,6 +6,7 @@ permalink: post/
 
 ##### 📌 2025/08/25 Received the Young Researcher Award from the The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)  [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 > ###### The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)からYoung Researcher Award を受賞されました[詳細](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
+
 ##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli, Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru  “LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction” has been accepted for publication in the IEEE Transactions on Intelligent Transportation Systems (Regular Paper).  
 > ###### 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登の論文「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に Regular Paper として採択されました。
 
@@ -55,7 +56,7 @@ permalink: post/
 > ###### 電気通信普及財団にて研究調査助成を獲得しました（代表）。
 
 ##### 📌 2025/03/16 Awarded a Research Grant from the Shinohara Memorial Foundation as Co-Investigator.  
-> ###### しのはら財団にて研究調査助成を獲得しました（分担者）。
+> ###### しのはら財団にて研究調査助成を獲得しました（分担）。
 
 ##### 📌 2025/03/03 Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025) as Principal Investigator.  
 > ###### 令和7年度科研費 若手研究を獲得しました（代表）。
@@ -67,7 +68,7 @@ permalink: post/
 > ###### 葛 杭麗、楊 曉傑、松永 惟月、黄 滌之、越塚 登の論文「FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction」を 2024 IEEE International Conference on Big Data (BigData 2024) にて発表しました。
 
 ##### 📌 2024/10/15 Appointed as an Associate Editor of the IEEE Internet of Things Journal.  
-> ###### IEEE Internet of Things Journal の Associate Editor に就任しました。
+> ###### IEEE Internet of Things JournalのAssociate Editor に就任しました。
 
 ##### 📌 2024/08/15 Awarded the Specially Selected Paper Award by the Journal of Information Processing (IPSJ Journal).  
 > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-Neighboring on Multi-Weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
@@ -150,7 +151,7 @@ permalink: post/
 * #####  📌 2025/06/30  葛 杭麗, 黄 滌之, 楊 曉傑, 林 立楓, 羽多野 一磨, 市川 暢之, 川﨑 健史, 越塚 登 の論文  ”Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”  を 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) Track：Work-in-Progress and Industrial Papers  採択されました。
   > ######  Hangli Ge , Huang Dizhi, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi KAWASAKI, and Noboru Koshizuka's paper "Origin-Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis" has been accepted for the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Track: Work-in-Progress and Industrial Papers.
 * #####  📌 2025/06/30 Rosario Gaeta, Franca Corradini, Massimo De Santo, Francesco Flammini,Hangli Ge's paper "Improving Situation Awareness and Self-Adaptation in Autonomous Wheelchair-Drone Systems through Floor Surface Anomaly Detection"　has been accepted for the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC).
-* #####  📌 2025/06/15 松永 惟月， 葛 杭麗 , 小杉 雄斗，市川 暢之，川﨑 健史，越塚 登  “経路検索履歴データを用いた高速道路上での長期的な渋滞予測”を第45回交通工学研究発表会にて口頭発表（査読付き） 採択されました。
+* #####  📌 2025/06/15 松永 惟月， 葛 杭麗, 小杉 雄斗，市川 暢之，川﨑 健史，越塚 登  “経路検索履歴データを用いた高速道路上での長期的な渋滞予測”を第45回交通工学研究発表会にて口頭発表（査読付き） 採択されました。
   > ###### Itsuki Matsunaga,  Hangli Ge , Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka “Long-term Traffic Congestion Prediction on Expressways Using Route Search History Data" has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).
 * #####  📌	2025/05/15  2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring, Mentor に選ばれました。
   > ###### Selected as a Mentor for the 2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program.
