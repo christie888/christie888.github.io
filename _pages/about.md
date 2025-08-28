@@ -43,7 +43,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 | Grant Name | Duration | Responsibility|
 |------------|-------------|-------------|
 | Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |Principal Investigator|
-| Foundation for the Promotion of Electrical Communication Research Grant |  2025.05. - 2028.03. |Principal Investigator|
+| Foundation for the Promotion of Electrical Communication(電気通信普及財団) - Research Grant |  2025.05. - 2028.03. |Principal Investigator|
 
 
 <!--| The Shinohara Foundation Research Grant |  2025.04. - 2026.03. |Co-Investigator|
