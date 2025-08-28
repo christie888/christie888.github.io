@@ -59,7 +59,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 
 ---
 
-### 🧭 Activities
+### 🧭 Main Activities
 - Associate Editor, IEEE Internet of Things Journal
 
   
