@@ -72,14 +72,11 @@ permalink: post/
 
 ##### 📌 2024/08/15 Awarded the Specially Selected Paper Award by the Journal of Information Processing (IPSJ Journal).  
 > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-Neighboring on Multi-Weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
-
-
 ---
-
-### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
 
 <!--
+### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
 ##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru “LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction” has been accepted for publication as a REGULAR PAPER in the IEEE Transactions on Intelligent Transportation Systems.
 > ###### 楊 曉傑、Yicheng Tao、葛 杭麗、Zipei Fan、Akerkar Rajendra、越塚 登の論文「LLeCaT: LLM enhanced Causality-aware Traffic Accidents Post-effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に REGULAR PAPER として採択されました。
