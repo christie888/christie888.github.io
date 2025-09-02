@@ -55,7 +55,10 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   <li>IEEE International Conference on Human-Machine Systems</li>
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>International Conference on Innovative Structure and Resilient City</li>
-  <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>!-->
+  <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
+  | Shinohara Foundation Research Grant(篠原財団) - Research Grant |  2025.05. - 2026.03. |Co-Investigator|
+  !-->
+
 
 ---
 
