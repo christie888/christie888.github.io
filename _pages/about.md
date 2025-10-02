@@ -44,7 +44,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 |------------|-------------|-------------|
 | Early-Career Researcher Scientists, Grants-in-Aid for Scientific Research (JSPS KAKENHI)|  2025.04. - 2028.03. |Principal Investigator|
 | Foundation for the Promotion of Electrical Communication(電気通信普及財団) - Research Grant |  2025.05. - 2028.03. |Principal Investigator|
-
+| Shinohara Foundation Research Grant(篠原財団) - Research Grant |  2025.05. - 2026.03. |Co-Investigator|
 
 <!--| The Shinohara Foundation Research Grant |  2025.04. - 2026.03. |Co-Investigator|
 - (Technical) Program Committee / Organizer
@@ -56,7 +56,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>International Conference on Innovative Structure and Resilient City</li>
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
-  | Shinohara Foundation Research Grant(篠原財団) - Research Grant |  2025.05. - 2026.03. |Co-Investigator|
+
   !-->
 
 
