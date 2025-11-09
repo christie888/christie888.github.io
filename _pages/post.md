@@ -37,8 +37,6 @@ permalink: post/
 ##### 📌 2025/07/04 Hangli Ge; Hiroaki Mori; Yasuhira Chiba; Noboru Koshizuka  “Realizing Space-Oriented Control in Smart Buildings via Word Embeddings” has been accepted at the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025).  
 > ###### 葛 杭麗、森 大晃、千葉 彌平、越塚 登の論文「Realizing Space-Oriented Control in Smart Buildings via Word Embeddings」が 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025) に採択されました。
 
-##### 📌 2025/07/04 Francesco Flammini; Hangli Ge  “Trustworthy Autonomous Wheelchair–Drone Systems: Use-Case Concept and Perspectives” has been accepted at the 2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025).  
-
 ##### 📌 2025/07/01 Hangli Ge; Kazuma Hatano; Nobuyuki Ichikawa; Takeshi Kawasaki; Noboru Koshizuka  “Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges” has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of the journal 交通工学 (Traffic Engineering), Vol. 60, No. 3 (issued on July 1, 2025).  
 > ###### 葛 杭麗、羽多野 一磨、市川 暢之、川﨑 健史、越塚 登の論文「高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析」が、交通工学誌 特集号「オーバーツーリズムに対応した持続可能な観光交通」第60巻3号に掲載されました。
 
@@ -47,8 +45,6 @@ permalink: post/
 
 ##### 📌 2025/06/30 Hangli Ge; Huang Dizhi; Xiaojie Yang; Lifeng Lin; Kazuma Hatano; Takeshi Kawasaki; Noboru Koshizuka  “Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis” has been accepted at the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC), Track: Work-in-Progress and Industrial Papers.  
 > ###### 葛 杭麗、黄 滌之、楊 曉傑、林 立楓、羽多野 一磨、川﨑 健史、越塚 登の論文「Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis」が 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC) Track: Work-in-Progress and Industrial Papers に採択されました。
-
-##### 📌 2025/06/30 Rosario Gaeta; Franca Corradini; Massimo De Santo; Francesco Flammini; Hangli Ge  “Improving Situation Awareness and Self-Adaptation in Autonomous Wheelchair–Drone Systems through Floor Surface Anomaly Detection” has been accepted at the 2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC).  
 
 ##### 📌 2025/06/15 Itsuki Matsunaga; Hangli Ge; Yuto Kosugi; Nobuyuki Ichikawa; Takeshi Kawasaki; Noboru Koshizuka  “Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data” has been accepted as a peer-reviewed oral presentation at the 45th Annual Conference on Traffic Engineering (JSTE).  
 > ###### 松永 惟月、葛 杭麗、小杉 雄斗、市川 暢之、川﨑 健史、越塚 登の論文「経路検索履歴データを用いた高速道路上での長期的な渋滞予測」が第45回交通工学研究発表会にて査読付き口頭発表として採択されました。
