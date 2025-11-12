@@ -13,12 +13,10 @@ permalink: post/
 ##### 📌 2025/08/12 Yang, Xiaojie; Tao, Yicheng; Hangli, Ge; Fan, Zipei; Akerkar, Rajendra; Koshizuka, Noboru  “LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction” has been accepted for publication in the IEEE Transactions on Intelligent Transportation Systems (Regular Paper).  
 > ###### 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登の論文「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」が IEEE Transactions on Intelligent Transportation Systems に Regular Paper として採択されました。
 
-##### 📌 2025/08/05 Katsutoshi Amano; Hangli Ge; Yasuhira Chiba; Noboru Koshizuka  “Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
-> ###### 天野 克敏、葛 杭麗、千葉 彌平、越塚 登の論文「Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration」が 2025 IEEE International Smart Cities Conference (ISC2 2025) に採択されました。
+##### 📌  2025/08/05 Two of our research papers have been accepted for presentation at the 2025 IEEE International Smart Cities Conference (ISC2 2025).
+> ###### 1️⃣ Katsutoshi Amano; Hangli Ge; Yasuhira Chiba; Noboru Koshizuka  “Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
+> ###### 2️⃣ Yasuhira Chiba; Hangli Ge; Katsutoshi Amano; Noboru Koshizuka “Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).
 
-##### 📌 2025/08/05 Yasuhira Chiba; Hangli Ge; Katsutoshi Amano; Noboru Koshizuka “Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations” has been accepted at the 2025 IEEE International Smart Cities Conference (ISC2 2025).  
-> ###### 千葉 彌平、葛 杭麗、天野 克敏、越塚 登の論文「Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations」が 2025 IEEE International Smart Cities Conference (ISC2 2025) に採択されました。
- 
 ##### 📌 2025/08/5 Received the Young Researcher Award from the The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)  [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 > ###### The IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS)からYoung Researcher Award を受賞されました[詳細](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 
