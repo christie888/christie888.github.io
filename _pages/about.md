@@ -20,8 +20,8 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 **✨Topic 1: Physics-informed (PI)-AI for Traffic/Mobility/Congestion Prediction**
 > Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed (PI) AI integrates fundamental traffic or human mobility flow theories into deep learning models, ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
-**✨Topic 2: Digital Twin (DT) for Urban Resillience**
-> DTs support the optimizations of resources allocation, operations, and support data-driven decision-making. By integrating data both from cyber and physical space with efficient AI technologies, we can develop next-generation mobility platform that are resilient, adaptive, for such as reducing traffic congestion, minimizing energy consumption and maxmizing economic efficiency and so on.
+**✨Topic 2: Complex Urban Dynamic Systems for Urban Resillience**
+> DTs support resource allocation, operational optimization, and data-driven decision-making. By integrating data both from cyber and physical space with advanced AI technologies, we can develop next-generation smarter city platforms that are resilient, adaptive, capable of such as reducing traffic congestion, minimizing energy consumption and maxmizing economic efficiency and so on.
 
 <!-- **✨Topic 2: Quantum Computing for Optimization Problems**
 > Optimization is widely applied in machine learning, control systems and operations research. Classical approaches including gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
