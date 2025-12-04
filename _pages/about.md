@@ -68,7 +68,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   
 ### 🪪 Memberships｜学会所属
  <ul style="margin:0; padding:0;font-size: 10pt;">
-    <li>Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
+    <li>Senior Member, IEEE (Institute of Electrical and Electronics Engineers) </li> 
     <li>Member, ACM (Association for Computing Machinery)</li>
     <li>Member, 情報処理学会 Information Processing Society of Japan (IPSJ)</li>
     <li>Member, 交通工学研究会 The Japan Society of Traffic Engineers (JSTE)</li>
@@ -79,7 +79,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 
   
 
-🚀 _Last updated: [2025/05/01]_  
+🚀 _Last updated: [2025/12/05]_  
 
 
 
