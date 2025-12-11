@@ -3,8 +3,8 @@ layout: archive
 title: "Recent Highlights"
 permalink: post/
 ---
-
-##### 📌 2025/12/04 Honored and humbled to be elevated to an IEEE Senior Member.
+##### 📌 2025/12/09 One corresponding-authored paper “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka has been selected as Outstanding Paper for SDM II Special Session IEEE Bigdata 2025
+##### 📌 2025/12/04 Honored and humbled to be elevated to an IEEE Senior Member. I would like to express my heartfelt thanks to my mentor, colleagues, and friends who have supported and guided me throughout this journey. This milestone inspires me to continue contributing to the community!
 ##### 📌 2025/11/06 Three of our research papers have been accepted for presentation at the 2025 IEEE International Conference on Big Data (IEEE BigData 2025).
 > ###### 1️⃣ “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka<br>
 > ###### 2️⃣ “Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management” Slamet Kristanto Tirto Utomo, Hangli Ge, and Noboru Koshizuka<br>
