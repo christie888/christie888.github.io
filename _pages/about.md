@@ -38,7 +38,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 
 ---
 
-### 🔹 Grants & Funding
+### 🔹 Grants & Funding (External)
 
 | Grant Name | Duration | Responsibility|
 |------------|-------------|-------------|
