@@ -20,7 +20,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Lecturer
 **✨Topic 1: Physics-informed (PI)-AI for Traffic/Mobility/Congestion Prediction**
 > Traditional AI models for traffic prediction rely on purely data-driven approaches, which often struggle with accuracy or interpretability, especially in unseen traffic dynamics. Incorporating physics-informed (PI) AI integrates fundamental traffic or human mobility flow theories into deep learning models, ensures that predictions remain physically consistent, leading to more reliable and interpretable traffic forecasts.
 
-**✨Topic 2: Complex Urban Dynamic Systems for Urban Resillience**
+**✨Topic 2: Complex Dynamic Systems for Urban Resillience**
 > DTs support resource allocation, operational optimization, and data-driven decision-making. By integrating data both from cyber and physical space with advanced AI technologies, we can develop next-generation smarter city platforms that are resilient, adaptive, capable of such as reducing traffic congestion, minimizing energy consumption and maxmizing economic efficiency and so on.
 
 <!-- **✨Topic 2: Quantum Computing for Optimization Problems**
