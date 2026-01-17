@@ -3,7 +3,7 @@ layout: archive
 title: "Recent Highlights"
 permalink: post/
 ---
-##### 📌 2026/01/11 Appointed as an Associate Editor of KSII Transactions on Internet and Information Systems.
+##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
 ##### 📌 2025/12/09 One corresponding-authored paper “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka has been selected as **Outstanding Paper** for SDM II Special Session IEEE Bigdata 2025.
 ##### 📌 2025/12/04 Honored and humbled to be elevated to an **IEEE Senior Member**. I would like to express my heartfelt thanks to my mentor, colleagues, and friends who have supported and guided me throughout this journey. This milestone inspires me to continue contributing to the community!
