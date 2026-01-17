@@ -3,6 +3,7 @@ layout: archive
 title: "Recent Highlights"
 permalink: post/
 ---
+##### 📌 2026/01/11 Appointed as an Associate Editor of KSII Transactions on Internet and Information Systems.
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
 ##### 📌 2025/12/09 One corresponding-authored paper “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka has been selected as **Outstanding Paper** for SDM II Special Session IEEE Bigdata 2025.
 ##### 📌 2025/12/04 Honored and humbled to be elevated to an **IEEE Senior Member**. I would like to express my heartfelt thanks to my mentor, colleagues, and friends who have supported and guided me throughout this journey. This milestone inspires me to continue contributing to the community!
@@ -58,14 +59,14 @@ permalink: post/
 ##### 📌 2025/03/03 Awarded the Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025) as Principal Investigator.  
 > ###### 令和7年度科研費 若手研究を獲得しました（代表）。
 
+##### 📌 2025/3/01 Appointed as an Associate Editor of the IEEE Internet of Things Journal.  
+> ###### IEEE Internet of Things JournalのAssociate Editor に就任しました。
+
 ##### 📌 2025/02/23 Xiaojie Yang; Hangli Ge; Jiawei Wang; Zipei Fan; Renhe Jiang; Ryosuke Shibasaki; Noboru Koshizuka  “CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events” has been accepted at the 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).  
 > ###### 楊 曉傑、葛 杭麗、Jiawei Wang、Zipei Fan、Renhe Jiang、柴崎 亮介、越塚 登の論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」が 2025 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025) に採択されました。
 
 ##### 📌 2024/12/25 Presented the paper  “FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction” at the 2024 IEEE International Conference on Big Data (BigData 2024).  
 > ###### 葛 杭麗、楊 曉傑、松永 惟月、黄 滌之、越塚 登の論文「FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction」を 2024 IEEE International Conference on Big Data (BigData 2024) にて発表しました。
-
-##### 📌 2024/10/15 Appointed as an Associate Editor of the IEEE Internet of Things Journal.  
-> ###### IEEE Internet of Things JournalのAssociate Editor に就任しました。
 
 ##### 📌 2024/08/15 Awarded the Specially Selected Paper Award by the Journal of Information Processing (IPSJ Journal).  
 > ###### 葛 杭麗、道方 孝志、越塚 登の論文「K-Neighboring on Multi-Weighted Graphs for Passenger Count Prediction on Railway Networks」が 情報処理学会誌 Journal of Information Processing 特別選考論文賞を受賞しました。
