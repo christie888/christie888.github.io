@@ -64,6 +64,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 
 ### 🧭 Main Activities
 - Associate Editor, IEEE Internet of Things Journal
+- Editor, KSII Transactions on Internet and Information Systems
 
   
 ### 🪪 Memberships｜学会所属
