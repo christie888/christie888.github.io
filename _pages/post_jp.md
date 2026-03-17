@@ -7,7 +7,7 @@ permalink: post_jp/
 
 ##### 📌 2026/01/09 [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) の運営委員会に参加し、さらに [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/) の **Publicity Chair** を務めることになりました。国際会議の成功と研究コミュニティへの貢献に向けて尽力してまいります。
 
-##### 📌 2025/12/09 責任著者論文 **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**（Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka）が IEEE BigData 2025 の SDM II Special Session にて **Outstanding Paper** に選ばれました。
+##### 📌 2025/12/09 共著論文（Corresponding） **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**（Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka）が IEEE BigData 2025 の SDM II Special Session にて **Outstanding Paper** に選ばれました。
 
 ##### 📌 2025/12/04 **IEEE Senior Member** に昇格しました。これまで支えてくださったアドバイザー、共同研究者、友人の皆さまに心より感謝申し上げます。今後もコミュニティに貢献できるよう努めてまいります。
 
