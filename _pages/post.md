@@ -4,6 +4,80 @@ title: "Recent Highlights"
 permalink: post/
 ---
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
+
+##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
+
+##### 📌 2025/12/09 One corresponding-authored paper, **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”** by Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka, has been selected as an **Outstanding Paper** for the SDM II Special Session at IEEE BigData 2025.
+
+##### 📌 2025/12/04 Honored and humbled to be elevated to **IEEE Senior Member**. I would like to express my heartfelt thanks to my mentor, colleagues, and friends who have supported and guided me throughout this journey. This milestone inspires me to continue contributing to the community.
+
+##### 📌 2025/11/06 Three of our research papers have been accepted for presentation at the **2025 IEEE International Conference on Big Data (IEEE BigData 2025)**.
+> ###### 1️⃣ **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**  
+> Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka  
+>
+> ###### 2️⃣ **“Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management”**  
+> Slamet Kristanto Tirto Utomo, Hangli Ge, and Noboru Koshizuka  
+>
+> ###### 3️⃣ **“XCKAN: Federated Catalog for Data Discovery in Dataspaces”**  
+> Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, and Noboru Koshizuka
+
+##### 📌 2025/08/12 **“LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction”** by Xiaojie Yang, Yicheng Tao, Hangli Ge, Zipei Fan, Rajendra Akerkar, and Noboru Koshizuka has been accepted for publication in the **IEEE Transactions on Intelligent Transportation Systems** as a **Regular Paper**.
+
+##### 📌 2025/08/05 Two of our research papers have been accepted for presentation at the **2025 IEEE International Smart Cities Conference (ISC2 2025)**.
+> ###### 1️⃣ Katsutoshi Amano, Hangli Ge, Yasuhira Chiba, and Noboru Koshizuka  
+> **“Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration”**
+>
+> ###### 2️⃣ Yasuhira Chiba, Hangli Ge, Katsutoshi Amano, and Noboru Koshizuka  
+> **“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations”**
+
+##### 📌 2025/08/05 Received the **Young Researcher Award** from the IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS). [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
+
+##### 📌 2025/08/01 **“Robust and Efficient Human Mobility Data Processing through the Lens of Topological Persistence”** by Lifeng Lin, Hangli Ge, Takashi Michikata, Kazuma Hatano, Ryosuke Shibasaki, and Noboru Koshizuka has been accepted at the **International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025)**, Industry Papers Track.
+
+##### 📌 2025/07/10 **“Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction”** by Lifeng Lin, Hangli Ge, and Noboru Koshizuka has been accepted at the **28th European Conference on Artificial Intelligence (ECAI 2025)**, **PAIS Track**.
+
+##### 📌 2025/07/06 Honored to be invited to give a presentation titled **“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”** at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.online/files/20250706Poster_UTokyo.jpg)
+
+##### 📌 2025/07/04 Two of our research papers have been accepted for presentation at the **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**.
+> ###### 1️⃣ Hangli Ge and Noboru Koshizuka  
+> **“Deep Unfolding for MIMO Signal Detection”**
+>
+> ###### 2️⃣ Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka  
+> **“Realizing Space-Oriented Control in Smart Buildings via Word Embeddings”**
+
+##### 📌 2025/07/01 **“Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges”** by Hangli Ge, Kazuma Hatano, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of **Traffic Engineering**, Vol. 60, No. 3.
+
+##### 📌 2025/06/30 Two of our research papers have been accepted for presentation at the **2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**.
+> ###### 1️⃣ Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka  
+> **“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience”**
+>
+> ###### 2️⃣ Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
+> **“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”**  
+> Track: Work-in-Progress and Industrial Papers
+
+##### 📌 2025/06/15 **“Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data”** by Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been accepted as a peer-reviewed oral presentation at the **45th Annual Conference on Traffic Engineering (JSTE)**.
+
+##### 📌 2025/05/15 Selected as a **Mentor** for the **2025 IEEE Computer Society SYP (Student and Young Professionals) Micro Mentoring Program**.
+
+##### 📌 2025/04/10 Presented the paper **“A Traffic Evacuation Model for Enhancing Resilience During Railway Disruption”** at the **20th European Dependable Computing Conference (EDCC 2025)**.
+
+##### 📌 2025/03/20 Awarded a **Research Grant** from the **Telecommunication Advancement Foundation** as **Principal Investigator**.
+
+##### 📌 2025/03/16 Awarded a **Research Grant** from the **Shinohara Memorial Foundation** as **Co-Investigator**.
+
+##### 📌 2025/03/03 Awarded the **Grant-in-Aid for Early-Career Scientists (KAKENHI, FY2025)** as **Principal Investigator**.
+
+##### 📌 2025/03/01 Appointed as an **Associate Editor** of the **IEEE Internet of Things Journal**.
+
+##### 📌 2025/02/23 **“CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events”** by Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka has been accepted at **KDD 2025**.
+
+##### 📌 2024/12/25 Presented the paper **“FRTP: Federating Route Search Records to Enhance Long-Term Traffic Prediction”** at the **2024 IEEE International Conference on Big Data (BigData 2024)**.
+
+##### 📌 2024/08/15 Awarded the **Specially Selected Paper Award** by the **Journal of Information Processing (IPSJ Journal)**.
+
+
+<!--
+##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
 ##### 📌 2025/12/09 One corresponding-authored paper “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka has been selected as **Outstanding Paper** for SDM II Special Session IEEE Bigdata 2025.
 ##### 📌 2025/12/04 Honored and humbled to be elevated to an **IEEE Senior Member**. I would like to express my heartfelt thanks to my mentor, colleagues, and friends who have supported and guided me throughout this journey. This milestone inspires me to continue contributing to the community!
@@ -73,7 +147,7 @@ permalink: post/
 ---
 
 
-<!--
+
 [News](https://www.polyu.edu.hk/ricri/news-and-events/news/2025/utokyo-and-polyu-host-joint-symposium-on-climate-resilient-infrastructure-and-smart-cities/?sc_lang=en)
 ### 📝 Recent Publications. More 👉 [Google Scholar](https://scholar.google.com/citations?user=8lFqJGMAAAAJ&hl=en)
 
