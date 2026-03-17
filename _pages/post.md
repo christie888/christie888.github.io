@@ -5,10 +5,8 @@ permalink: post/
 ---
 
 >All experience is good experience.
->
->All we can do is live in the present.
->
->Be humble.
+<br>All we can do is live in the present.
+<br>Be humble.
 
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 
