@@ -4,7 +4,7 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
->All experience is good experience.
+>All experience is GOOD experience.
 <br>All we can do is live in the present.
 <br>Be humble.
 
