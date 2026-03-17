@@ -55,7 +55,6 @@ permalink: post/
 > **“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience”**
 > ###### 1️⃣ Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka
 > **“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”**  
-> Track: Work-in-Progress and Industrial Papers
 > ###### 2️⃣ Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
 
 ##### 📌 2025/06/15 **“Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data”** by Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been accepted as a peer-reviewed oral presentation at the **45th Annual Conference on Traffic Engineering (JSTE)**.
