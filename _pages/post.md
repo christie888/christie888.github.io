@@ -13,22 +13,22 @@ permalink: post/
 
 ##### 📌 2025/11/06 Three of our research papers have been accepted for presentation at the **2025 IEEE International Conference on Big Data (IEEE BigData 2025)**.
 > ###### 1️⃣ **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**  
-> Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka  
+> ######  Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka  
 >
 > ###### 2️⃣ **“Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management”**  
-> Slamet Kristanto Tirto Utomo, Hangli Ge, and Noboru Koshizuka  
+> ###### Slamet Kristanto Tirto Utomo, Hangli Ge, and Noboru Koshizuka  
 >
 > ###### 3️⃣ **“XCKAN: Federated Catalog for Data Discovery in Dataspaces”**  
-> Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, and Noboru Koshizuka
+> ###### Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, and Noboru Koshizuka
 
 ##### 📌 2025/08/12 **“LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction”** by Xiaojie Yang, Yicheng Tao, Hangli Ge, Zipei Fan, Rajendra Akerkar, and Noboru Koshizuka has been accepted for publication in the **IEEE Transactions on Intelligent Transportation Systems** as a **Regular Paper**.
 
 ##### 📌 2025/08/05 Two of our research papers have been accepted for presentation at the **2025 IEEE International Smart Cities Conference (ISC2 2025)**.
-> ###### 1️⃣ Katsutoshi Amano, Hangli Ge, Yasuhira Chiba, and Noboru Koshizuka  
 > **“Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration”**
+> ###### 1️⃣ Katsutoshi Amano, Hangli Ge, Yasuhira Chiba, and Noboru Koshizuka  
 >
-> ###### 2️⃣ Yasuhira Chiba, Hangli Ge, Katsutoshi Amano, and Noboru Koshizuka  
 > **“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations”**
+> ###### 2️⃣ Yasuhira Chiba, Hangli Ge, Katsutoshi Amano, and Noboru Koshizuka  
 
 ##### 📌 2025/08/05 Received the **Young Researcher Award** from the IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS). [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 
@@ -39,21 +39,19 @@ permalink: post/
 ##### 📌 2025/07/06 Honored to be invited to give a presentation titled **“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”** at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.com/files/20250706Poster_UTokyo.jpg)
 
 ##### 📌 2025/07/04 Two of our research papers have been accepted for presentation at the **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**.
-> ###### 1️⃣ Hangli Ge and Noboru Koshizuka  
 > **“Deep Unfolding for MIMO Signal Detection”**
+> ###### 1️⃣ Hangli Ge and Noboru Koshizuka  
 >
-> ###### 2️⃣ Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka  
 > **“Realizing Space-Oriented Control in Smart Buildings via Word Embeddings”**
-
+> ###### 2️⃣ Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka
 ##### 📌 2025/07/01 **“Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges”** by Hangli Ge, Kazuma Hatano, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of **Traffic Engineering**, Vol. 60, No. 3.
 
 ##### 📌 2025/06/30 Two of our research papers have been accepted for presentation at the **2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**.
-> ###### 1️⃣ Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka  
 > **“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience”**
->
-> ###### 2️⃣ Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
+> ###### 1️⃣ Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka
 > **“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”**  
 > Track: Work-in-Progress and Industrial Papers
+> ###### 2️⃣ Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
 
 ##### 📌 2025/06/15 **“Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data”** by Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been accepted as a peer-reviewed oral presentation at the **45th Annual Conference on Traffic Engineering (JSTE)**.
 
