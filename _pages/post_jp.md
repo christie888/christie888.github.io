@@ -3,6 +3,7 @@ layout: archive
 title: "最近のお知らせ"
 permalink: post_jp/
 ---
+
 ##### 📌 2026/01/11 KSII Transactions on Internet and Information Systems の Editor に就任しました。
 
 ##### 📌 2026/01/09 [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) の運営委員会に参加し、さらに [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/) の **Publicity Chair** を務めることになりました。国際会議の成功と研究コミュニティへの貢献に向けて尽力してまいります。
