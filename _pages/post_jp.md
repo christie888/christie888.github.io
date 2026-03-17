@@ -9,7 +9,7 @@ permalink: post_jp/
 
 ##### 📌 2025/12/09 責任著者論文 **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**（Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka）が IEEE BigData 2025 の SDM II Special Session にて **Outstanding Paper** に選ばれました。
 
-##### 📌 2025/12/04 **IEEE Senior Member** に昇格しました。これまで支えてくださった指導教員、共同研究者、友人の皆さまに心より感謝申し上げます。今後もコミュニティに貢献できるよう努めてまいります。
+##### 📌 2025/12/04 **IEEE Senior Member** に昇格しました。これまで支えてくださったアドバイザー、共同研究者、友人の皆さまに心より感謝申し上げます。今後もコミュニティに貢献できるよう努めてまいります。
 
 ##### 📌 2025/11/06 3件の論文が **2025 IEEE International Conference on Big Data (IEEE BigData 2025)** に採択されました。
 > ###### 1️⃣ **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”**  
