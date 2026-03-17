@@ -54,7 +54,7 @@ permalink: post_jp/
 > ###### 1️⃣ 葛 杭麗、Zipei Fan、楊 曉傑、Francesco Flammini、越塚 登
 >
 > ###### **「Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis」**  
-> Work-in-Progress and Industrial Papers Track
+> ###### Work-in-Progress and Industrial Papers Track
 > ###### 2️⃣ 葛 杭麗、黄 滌之、楊 曉傑、林 立楓、羽多野 一磨、川﨑 健史、越塚 登  
 
 ##### 📌 2025/06/15 松永 惟月、葛 杭麗、小杉 雄斗、市川 暢之、川﨑 健史、越塚 登による論文 **「経路検索履歴データを用いた高速道路上での長期的な渋滞予測」** が、第45回交通工学研究発表会にて **査読付き口頭発表** として採択されました。
