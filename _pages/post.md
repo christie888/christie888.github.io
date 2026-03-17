@@ -36,7 +36,7 @@ permalink: post/
 
 ##### 📌 2025/07/10 **“Diffusion Model Bridges Search Behavior and Travel Needs for Practical Traffic Prediction”** by Lifeng Lin, Hangli Ge, and Noboru Koshizuka has been accepted at the **28th European Conference on Artificial Intelligence (ECAI 2025)**, **PAIS Track**.
 
-##### 📌 2025/07/06 Honored to be invited to give a presentation titled **“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”** at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.online/files/20250706Poster_UTokyo.jpg)
+##### 📌 2025/07/06 Honored to be invited to give a presentation titled **“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”** at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.com/files/20250706Poster_UTokyo.jpg)
 
 ##### 📌 2025/07/04 Two of our research papers have been accepted for presentation at the **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**.
 > ###### 1️⃣ Hangli Ge and Noboru Koshizuka  
