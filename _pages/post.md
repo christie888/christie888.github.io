@@ -3,6 +3,11 @@ layout: archive
 title: "Recent Highlights"
 permalink: post/
 ---
+
+>All experience is good experience.
+>All we can do is live in the present.
+>Be humble.
+
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
