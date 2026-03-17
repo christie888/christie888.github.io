@@ -7,3 +7,5 @@
 main:
   - title: News
     url: /post/
+  - title: 日本語
+    url: /japanese/
