@@ -3,9 +3,7 @@ layout: archive
 title: "最近のお知らせ"
 permalink: post_jp/
 ---
->すべての経験には価値がある。
-<br>“今”を生きるしかない。
-<br>感謝、謙虚。
+>感謝、謙虚。
 
 ##### 📌 2026/01/11 KSII Transactions on Internet and Information Systems の Editor に就任しました。
 
