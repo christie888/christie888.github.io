@@ -8,6 +8,10 @@ permalink: post/
 <br>All we can do is live in the present.
 <br>Be grateful. Be humble.
 
+##### 📌 2026/04/01 I’m honored and humbled to share that I’m starting a new position as Project Associate Professor at The University of Tokyo. I would like to express my heartfelt thanks to all my mentors, colleagues, and friends who have supported and guided me throughout this journey.
+
+##### 📌 2026/03/26 One co-authored paper, **“CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events”** by Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka has been awarded as Telecom Interdisciplinary Research Student Award - Grand Prize Winner from the **Telecommunication Advancement Foundation**
+
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
