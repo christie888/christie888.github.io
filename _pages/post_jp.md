@@ -5,6 +5,11 @@ permalink: post_jp/
 ---
 >感謝、謙虚。
 
+
+##### 📌2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
+
+##### 📌 2026/03/26　共著論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」（Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka）が、電気通信普及財団によるテレコム学際研究学生賞・最優秀賞を受賞しました。
+
 ##### 📌 2026/01/11 KSII Transactions on Internet and Information Systems の Editor に就任しました。
 
 ##### 📌 2026/01/09 [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) の運営委員会に参加し、さらに [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/) の **Publicity Chair** を務めることになりました。国際会議の成功と研究コミュニティへの貢献に向けて尽力してまいります。
