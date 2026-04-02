@@ -19,13 +19,12 @@ permalink: post_jp/
 ##### 📌 2025/12/04 **IEEE Senior Member** に昇格しました。これまで支えてくださったアドバイザー、共同研究者、友人の皆さまに心より感謝申し上げます。今後もコミュニティに貢献できるよう努めてまいります。
 
 ##### 📌 2025/11/06 3件の論文が **2025 IEEE International Conference on Big Data (IEEE BigData 2025)** に採択されました。
->1️⃣ ####### **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”** Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka <br> 2️⃣ **“Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management”**  Slamet Kristanto Tirto Utomo, Hangli Ge, Noboru Koshizuka<br> 3️⃣ **“XCKAN: Federated Catalog for Data Discovery in Dataspaces”** Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, Noboru Koshizuka
+>###### 1️⃣ **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”** Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka <br> 2️⃣ **“Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management”**  Slamet Kristanto Tirto Utomo, Hangli Ge, Noboru Koshizuka<br> 3️⃣ **“XCKAN: Federated Catalog for Data Discovery in Dataspaces”** Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, Noboru Koshizuka
 
 ##### 📌 2025/08/12 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登による論文 **「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」** が **IEEE Transactions on Intelligent Transportation Systems** に **Regular Paper** として採択されました。
 
 ##### 📌 2025/08/05 2件の論文が **2025 IEEE International Smart Cities Conference (ISC2 2025)** に採択されました。
-> 1️⃣ **Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration** 天野 克敏、葛 杭麗、千葉 彌平、越塚 登  <br>
-> 2️⃣ **Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations** 千葉 彌平、葛 杭麗、天野 克敏、越塚 登  
+> ###### 1️⃣ **Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration** 天野 克敏、葛 杭麗、千葉 彌平、越塚 登  <br> 2️⃣ **Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations** 千葉 彌平、葛 杭麗、天野 克敏、越塚 登  
 
 ##### 📌 2025/08/05 IEEE Systems, Man, and Cybernetics (SMC) Society の Technical Committee on Homeland Security (TCHS) より **Young Researcher Award** を受賞しました。 [詳細](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 
@@ -37,13 +36,13 @@ permalink: post_jp/
 
 ##### 📌 2025/07/04 2件の論文が **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)** に採択されました。
 
-> 1️⃣**Deep Unfolding for MIMO Signal Detection** 葛 杭麗、越塚 登  <br>2️⃣**Realizing Space-Oriented Control in Smart Buildings via Word Embeddings**  葛 杭麗、森 大晃、千葉 彌平、越塚 登  
+> ###### 1️⃣**Deep Unfolding for MIMO Signal Detection** 葛 杭麗、越塚 登  <br>2️⃣**Realizing Space-Oriented Control in Smart Buildings via Word Embeddings**  葛 杭麗、森 大晃、千葉 彌平、越塚 登  
 
 ##### 📌 2025/07/01 葛 杭麗、羽多野 一磨、市川 暢之、川﨑 健史、越塚 登による論文 **「高速道路経路検索の利活用方法及び観光地ICにおける交通量との相関分析」** が、『交通工学』特集号 **「オーバーツーリズムに対応した持続可能な観光交通」** 第60巻第3号に掲載されました。
 
 ##### 📌 2025/06/30 2件の論文が **2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)** に採択されました。
   
-> 1️⃣ **Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience** 葛 杭麗、Zipei Fan、楊 曉傑、Francesco Flammini、越塚 登 <br> 2️⃣ **Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis** 葛 杭麗、黄 滌之、楊 曉傑、林 立楓、羽多野 一磨、川﨑 健史、越塚 登  
+>###### 1️⃣ **Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience** 葛 杭麗、Zipei Fan、楊 曉傑、Francesco Flammini、越塚 登 <br> 2️⃣ **Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis** 葛 杭麗、黄 滌之、楊 曉傑、林 立楓、羽多野 一磨、川﨑 健史、越塚 登  
 
 ##### 📌 2025/06/15 松永 惟月、葛 杭麗、小杉 雄斗、市川 暢之、川﨑 健史、越塚 登による論文 **「経路検索履歴データを用いた高速道路上での長期的な渋滞予測」** が、第45回交通工学研究発表会にて **査読付き口頭発表** として採択されました。
 
