@@ -1,4 +1,4 @@
-<img width="468" height="33" alt="image" src="https://github.com/user-attachments/assets/72452529-12f5-4181-b2b8-44375e631fcf" />---
+---
 layout: archive
 title: "Recent Highlights"
 permalink: post/
