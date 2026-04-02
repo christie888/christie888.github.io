@@ -37,7 +37,7 @@ permalink: post/
 ##### 📌 2025/07/06 Honored to be invited to give a presentation titled **“Cyber-Physical Big Data Driven Approaches for Urban Resilience Enhancement”** at the joint international symposium *International Collaboration on Climate-Resilient Infrastructure and Smart City*, co-hosted by the University of Tokyo and The Hong Kong Polytechnic University. [Details](https://hanglige.com/files/20250706Poster_UTokyo.jpg)
 
 ##### 📌 2025/07/04 Two of our research papers have been accepted for presentation at the **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**.
-> 1️⃣ **“Deep Unfolding for MIMO Signal Detection”**　Hangli Ge and Noboru Koshizuka<br> 2️⃣ “Realizing Space-Oriented Control in Smart Buildings via Word Embeddings”**  Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka
+> 1️⃣ **“Deep Unfolding for MIMO Signal Detection”**　Hangli Ge and Noboru Koshizuka<br> 2️⃣ **“Realizing Space-Oriented Control in Smart Buildings via Word Embeddings”**  Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka
 
 ##### 📌 2025/07/01 **“Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges”** by Hangli Ge, Kazuma Hatano, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of **Traffic Engineering**, Vol. 60, No. 3.
 
