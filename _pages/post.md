@@ -8,6 +8,100 @@ permalink: post/
 <br>All we can do is live in the present.
 <br>Be grateful. Be humble.
 
+## News
+
+### 2026
+
+- **2026.04.01 — Appointment**  
+  Started a new position as *Project Associate Professor* at The University of Tokyo.
+
+- **2026.03.26 — Award**  
+  *CausalMob* (Yang et al.) received the **Telecom Interdisciplinary Research Student Award (Grand Prize)**.
+
+- **2026.01.11 — Service**  
+  Appointed as **Editor**, *KSII Transactions on Internet and Information Systems*.
+
+- **2026.01.09 — Service**  
+  Organizing Committee Member, *IEEE Smart World Congress 2026*;  
+  Publicity Chair, *IEEE UIC 2026*.
+
+---
+
+### 2025
+
+- **2025.12.09 — Publication Award**  
+  *Place with Intention* selected as **Outstanding Paper**, IEEE BigData 2025.
+
+- **2025.12.04 — Honor**  
+  Elevated to **IEEE Senior Member**.
+
+- **2025.11.06 — Publications (3 papers, IEEE BigData 2025)**  
+  - *Place with Intention: Expo 2025 attendance prediction*  
+  - *Visitor mobility + IoT for waste management*  
+  - *XCKAN: Federated data catalog*
+
+- **2025.08.12 — Journal Publication**  
+  *LLeCaT* accepted to **IEEE T-ITS**.
+
+- **2025.08.05 — Publications (ISC2 2025)**  
+  - Smart building–robot cooperation  
+  - LLM-based building OS  
+
+- **2025.08.05 — Award**  
+  **Young Researcher Award**, IEEE SMC TCHS.
+
+- **2025.08.01 — Publication**  
+  Accepted at **ACM SIGSPATIAL 2025 (Industry Track)**.
+
+- **2025.07.10 — Publication**  
+  Accepted at **ECAI 2025 (PAIS Track)**.
+
+- **2025.07.06 — Invited Talk**  
+  *Cyber-Physical Big Data for Urban Resilience* (UTokyo × PolyU symposium).
+
+- **2025.07.04 — Publications (IEEE GCCE 2025)**  
+  - Deep unfolding for MIMO detection  
+  - Space-oriented control in smart buildings  
+
+- **2025.07.01 — Journal Publication**  
+  Published in *Traffic Engineering* (Sustainable Tourism issue).
+
+- **2025.06.30 — Publications (IEEE SMC 2025)**  
+  - Emergency evacuation simulation  
+  - OD extraction for tourism analysis  
+
+- **2025.06.15 — Conference**  
+  Oral presentation at **JSTE 2025**.
+
+- **2025.05.15 — Service**  
+  Mentor, **IEEE CS SYP Micro Mentoring Program**.
+
+- **2025.04.10 — Conference**  
+  Presented at **EDCC 2025**.
+
+- **2025.03 — Grants (PI / Co-PI)**  
+  - KAKENHI Early-Career Scientist (PI)  
+  - Telecom Foundation (PI)  
+  - Shinohara Foundation (Co-PI)
+
+- **2025.03.01 — Service**  
+  Associate Editor, **IEEE Internet of Things Journal**.
+
+- **2025.02.23 — Publication**  
+  *CausalMob* accepted at **KDD 2025**.
+
+---
+
+### 2024
+
+- **2024.12.25 — Conference**  
+  Presented at **IEEE BigData 2024**.
+
+- **2024.08.15 — Award**  
+  **IPSJ Journal Specially Selected Paper Award**.
+
+
+<!--
 ##### 📌 2026/04/01 I’m honored and humbled to share that I’m starting a new position as Project Associate Professor at The University of Tokyo. I would like to express my heartfelt thanks to all my mentors, colleagues, and friends who have supported and guided me throughout this journey.
 
 ##### 📌 2026/03/26 One co-authored paper, **“CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events”** by Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka has been awarded as Telecom Interdisciplinary Research Student Award - Grand Prize Winner from the **Telecommunication Advancement Foundation.**
@@ -65,7 +159,7 @@ permalink: post/
 ##### 📌 2024/08/15 Awarded the **Specially Selected Paper Award** by the **Journal of Information Processing (IPSJ Journal)**.
 
 
-<!--
+
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
 ##### 📌 2025/12/09 One corresponding-authored paper “Place with Intention: An Empirical Attendance Predictive Study of Expo 2025” Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, and Noboru Koshizuka has been selected as **Outstanding Paper** for SDM II Special Session IEEE Bigdata 2025.
