@@ -26,7 +26,7 @@ permalink: post/
 ##### 📌 2025/08/12 **“LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction”** by Xiaojie Yang, Yicheng Tao, Hangli Ge, Zipei Fan, Rajendra Akerkar, and Noboru Koshizuka has been accepted for publication in the **IEEE Transactions on Intelligent Transportation Systems** as a **Regular Paper**.
 
 ##### 📌 2025/08/05 Two of our research papers have been accepted for presentation at the **2025 IEEE International Smart Cities Conference (ISC2 2025)**.
->　1️⃣ **“Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration”**　Katsutoshi Amano, Hangli Ge, Yasuhira Chiba, and Noboru Koshizuka  <br> 2️⃣ **“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations”**　Yasuhira Chiba, Hangli Ge, Katsutoshi Amano, and Noboru Koshizuka  
+>1️⃣ **“Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration”**　Katsutoshi Amano, Hangli Ge, Yasuhira Chiba, and Noboru Koshizuka  <br>2️⃣ **“Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations”**　Yasuhira Chiba, Hangli Ge, Katsutoshi Amano, and Noboru Koshizuka  
 
 ##### 📌 2025/08/05 Received the **Young Researcher Award** from the IEEE Systems, Man, and Cybernetics (SMC) Society’s Technical Committee on Homeland Security (TCHS). [Details](https://www.ieee-csr.org/awards/#ieee-smc-tchs)
 
