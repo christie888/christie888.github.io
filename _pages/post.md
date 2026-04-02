@@ -42,11 +42,12 @@ permalink: post/
 ##### 📌 2025/07/04 Two of our research papers have been accepted for presentation at the **2025 IEEE 14th Global Conference on Consumer Electronics (IEEE GCCE 2025)**.
 > 1️⃣ **“Deep Unfolding for MIMO Signal Detection”**　Hangli Ge and Noboru Koshizuka
 > 2️⃣ **“Realizing Space-Oriented Control in Smart Buildings via Word Embeddings”**  Hangli Ge, Hiroaki Mori, Yasuhira Chiba, and Noboru Koshizuka
+
 ##### 📌 2025/07/01 **“Analyzing the Correlation Between Expressway Route Search Records and Traffic Volume at Tourist Interchanges”** by Hangli Ge, Kazuma Hatano, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been published in the special issue *Sustainable Tourism and Transport under Overtourism* of **Traffic Engineering**, Vol. 60, No. 3.
 
 ##### 📌 2025/06/30 Two of our research papers have been accepted for presentation at the **2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)**.
-> **“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience”** 1️⃣ Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka
-> **“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”**  2️⃣ Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
+> 1️⃣ **“Simulation of Emergency Evacuation in Large-Scale Metropolitan Railway Systems for Urban Resilience”** Hangli Ge, Zipei Fan, Xiaojie Yang, Francesco Flammini, and Noboru Koshizuka
+> 2️⃣ **“Origin–Destination Extraction from Large-Scale Route Search Records for Tourism Trend Analysis”**  Hangli Ge, Dizhi Huang, Xiaojie Yang, Lifeng Lin, Kazuma Hatano, Takeshi Kawasaki, and Noboru Koshizuka  
 
 ##### 📌 2025/06/15 **“Long-Term Traffic Congestion Prediction on Expressways Using Route Search History Data”** by Itsuki Matsunaga, Hangli Ge, Yuto Kosugi, Nobuyuki Ichikawa, Takeshi Kawasaki, and Noboru Koshizuka has been accepted as a peer-reviewed oral presentation at the **45th Annual Conference on Traffic Engineering (JSTE)**.
 
