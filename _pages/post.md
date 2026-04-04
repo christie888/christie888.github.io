@@ -6,6 +6,8 @@ permalink: post/
 
 >Be grateful. Be humble.
 <br>Be sharp. Be soft.
+> No one knows everything, and that's okay.<br>
+**The key is to stay humble, keep learning, and never let arrogance block your path to wisdom.**  
 
 
 ##### 📌 2026/04/01 I’m honored and humbled to share that I’m starting a new position as Project Associate Professor at The University of Tokyo. I would like to express my heartfelt thanks to all my mentors, colleagues, and friends who have supported and guided me throughout this journey.
