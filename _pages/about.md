@@ -23,6 +23,8 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 **✨Topic 2: Complex Dynamic Systems for Urban Resilience
 > Examines cities as complex adaptive systems using computational models (e.g., agent-based models, digital twins) to analyze dynamics, assess resilience, and simulate responses to disruptions. The goal is to support robust urban planning, risk management, and sustainable development under uncertainty.
 
+
+
 <!-- 
 **✨Topic 1: Cyber-Physical, Big-Data-Driven Solutions for Traffic, Mobility, and Congestion Prediction and Optimization**
 > The integration of cyber-physical infrastructure with big-data-driven analytics enables advanced traffic, mobility, and congestion prediction and optimization. Such systems typically fuse heterogeneous data sources, including roadside sensors, real-time traffic data, human mobility patterns, weather information, and traffic control systems. By leveraging these diverse data streams, the system can capture real-time traffic dynamics and support predictive modeling as well as proactive decision-making. This paradigm is widely recognized as a key direction in modern intelligent transportation systems and smart cities, shifting traffic management from reactive operations toward predictive and optimization-based strategies.
