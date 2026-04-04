@@ -7,7 +7,7 @@ permalink: post_jp/
 
 
 
-##### 📌2026/04/01　東京大学大学院情報学環・特任准教授に==昇任==することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
+##### 📌2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
 
 ##### 📌 2026/03/26　共著論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」（Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka）が、電気通信普及財団によるテレコム学際研究学生賞・最優秀賞を受賞しました。
 
