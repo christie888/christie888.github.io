@@ -5,7 +5,7 @@ permalink: post/
 ---
 
 >Be grateful. Be humble.
-<br>Be sharp. Be soft.
+<br>Be sharp. Be soft.<br>
 > No one knows everything, and that's okay.<br>
 **The key is to stay humble, keep learning, and never let arrogance block your path to wisdom.**  
 
