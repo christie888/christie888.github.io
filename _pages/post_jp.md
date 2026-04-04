@@ -6,10 +6,11 @@ permalink: post_jp/
 >感謝、謙虚。<br>鋭く、優しく。
 
 
-
 ##### 📌2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
 
 ##### 📌 2026/03/26　共著論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」（Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka）が、電気通信普及財団によるテレコム学際研究学生賞・最優秀賞を受賞しました。
+
+##### 📌 2026/03/16　大阪・関西万博における来場者数予測の共同研究を、チームとして無事に完了しました。研究者として、この数十年に一度の国際共益の取り組みに関われたことを大変光栄に思います。貴重な機会に心より感謝しています。
 
 ##### 📌 2026/01/11 KSII Transactions on Internet and Information Systems の Editor に就任しました。
 
