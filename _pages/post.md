@@ -4,9 +4,8 @@ title: "Recent Highlights"
 permalink: post/
 ---
 
->All experience is GOOD experience.
-<br>All we can do is live in the present.
-<br>Be grateful. Be humble.
+>Be grateful. Be humble.
+<br>Be sharp. Be soft.
 
 
 ##### 📌 2026/04/01 I’m honored and humbled to share that I’m starting a new position as Project Associate Professor at The University of Tokyo. I would like to express my heartfelt thanks to all my mentors, colleagues, and friends who have supported and guided me throughout this journey.
