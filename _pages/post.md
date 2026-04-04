@@ -13,6 +13,8 @@ permalink: post/
 
 ##### 📌 2026/03/26 One co-authored paper, **“CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events”** by Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, and Noboru Koshizuka has been awarded as Telecom Interdisciplinary Research Student Award - Grand Prize Winner from the **Telecommunication Advancement Foundation.**
 
+##### 📌 2026/03/16 The team successfully delivered a joint research project for the Osaka Expo. It was a great honor to contribute to such a once-in-decades international public initiative. 
+
 ##### 📌 2026/01/11 Appointed as an Editor of KSII Transactions on Internet and Information Systems.
 
 ##### 📌 2026/01/09 Honored to be involved in the organizing committee of [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) and to serve as the **Publicity Chair** of the [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/). I look forward to contributing to the success of the conference and supporting the global research community.
