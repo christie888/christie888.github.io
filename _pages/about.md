@@ -17,7 +17,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 📚 Research Topics
 <br>I am mainly specializing in the following research areas:
 
-**✨Topic 1: Cyber-Physical & Big-Data Traffic/Mobility Systems
+**✨Topic 1: Cyber-Physical Big-Data Traffic/Mobility Systems
 > Focuses on integrating cyber-physical infrastructure with big-data analytics to predict and optimize traffic and mobility. By combining diverse real-time data sources (e.g., sensors, mobility patterns, weather), it enables a shift from reactive traffic management to predictive and proactive optimization-driven decision-making in smart cities.
 
 **✨Topic 2: Complex Dynamic Systems for Urban Resilience
