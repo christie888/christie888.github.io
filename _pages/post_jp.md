@@ -13,6 +13,8 @@ permalink: post_jp/
 
 ##### 📌 2026/03/16　大阪・関西万博における来場者数予測の共同研究を、チームとして無事に完了しました。研究者として、この数十年に一度の国際共益の取り組みに関われたことを大変光栄に思います。貴重な機会に心より感謝しています。
 
+##### 📌 2026/02/26 IEEE Computational Intelligence Society's Technical Committee on Ethical, Legal, Social, Environmental, and Human Dimensions of AI/CI (SHIELD) に参画しました。
+
 ##### 📌 2026/01/11 KSII Transactions on Internet and Information Systems の Editor に就任しました。
 
 ##### 📌 2026/01/09 [IEEE Smart World Congress 2026](https://swc-ieee-2026.github.io/) の運営委員会に参画し、さらに [IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2026)](https://swc-ieee-2026.github.io/uic/) の **Publicity Chair** を務めることになりました。国際会議の成功と研究コミュニティへの貢献に向けて尽力してまいります。
