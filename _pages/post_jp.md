@@ -6,7 +6,7 @@ permalink: post_jp/
 
 ##### 📌 2026/05/27  ACM Conference on Trustworthy and Responsible AI and Computing Systems[（ACM TRUST 2027）](https://eigtrust.acm.org/trust2027/)において, “Secure & Resilient AI Systems” シンポジウムのChairを務めることとなりました。6つの主要シンポジウムにて投稿を広く募集しております。
 
-##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining（KDD 2026）に採択されました。
+##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining[（KDD 2026）](https://kdd2026.kdd.org/) に採択されました。
 
 ##### 📌 2026/04/15 IEEE活動に貢献したことが評価され、IEEE Japan メダルをいただきました。今後もコミュニティへの貢献を続けていきたいと思います。 [Details](https://hanglige.com/images/IMG_9517.jpeg)
 
