@@ -9,6 +9,10 @@ permalink: post/
 > Be curious, keep learning, and never let arrogance block your path to wisdom.
 
 
+##### 📌 2026/05/27  Honored to serve as Symposium Chair of **“Secure & Resilient AI Systems”** at the ACM Conference on Trustworthy and Responsible AI and Computing Systems [(ACM TRUST 2027)](https://eigtrust.acm.org/trust2027/).  We warmly welcome submissions across six core symposia!
+
+##### 📌 2026/05/17  Our research paper, **“The Scaling Bottleneck of Human Mobility Modeling”** by Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Ryosuke Shibasaki, and Noboru Koshizuka, has been accepted for presentation at the **2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)**.
+
 ##### 📌 2026/04/15 Honored to receive a IEEE Japan medal in recognition of my contributions to IEEE activities. I look forward to continuing to contribute to the community. [Details](https://hanglige.com/images/IMG_9517.jpeg)
 
 ##### 📌 2026/04/01 I’m honored and humbled to share that I’m starting a new position as Project Associate Professor at The University of Tokyo. I would like to express my heartfelt thanks to all my mentors, colleagues, and friends who have supported and guided me throughout this journey.
