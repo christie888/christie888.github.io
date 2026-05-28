@@ -4,7 +4,7 @@ title: "最近のお知らせ"
 permalink: post_jp/
 ---
 
-##### 📌 2026/05/27  ACM Conference on Trustworthy and Responsible AI and Computing Systems[（ACM TRUST 2027）](https://eigtrust.acm.org/trust2027/). において， “Secure & Resilient AI Systems” シンポジウムのChairを務めることとなりました。6つの主要シンポジウムにて投稿を広く募集しております。
+##### 📌 2026/05/27  ACM Conference on Trustworthy and Responsible AI and Computing Systems[（ACM TRUST 2027）](https://eigtrust.acm.org/trust2027/)において, “Secure & Resilient AI Systems” シンポジウムのChairを務めることとなりました。6つの主要シンポジウムにて投稿を広く募集しております。
 
 ##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining（KDD 2026）に採択されました。
 
