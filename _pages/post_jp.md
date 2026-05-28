@@ -3,11 +3,14 @@ layout: archive
 title: "最近のお知らせ"
 permalink: post_jp/
 ---
->感謝、謙虚。<br>鋭く、優しく。
 
-##### 📌2026/04/15 IEEE活動に貢献したことが評価され、IEEE Japan メダルをいただきました。今後もコミュニティへの貢献を続けていきたいと思います。 [Details](https://hanglige.com/images/IMG_9517.jpeg)
+##### 📌 2026/05/27  ACM Conference on Trustworthy and Responsible AI and Computing Systems[（ACM TRUST 2027）](https://eigtrust.acm.org/trust2027/). において， “Secure & Resilient AI Systems” シンポジウムのChairを務めることとなりました。6つの主要シンポジウムにて投稿を広く募集しております。
 
-##### 📌2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
+##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining（KDD 2026）に採択されました。
+
+##### 📌 2026/04/15 IEEE活動に貢献したことが評価され、IEEE Japan メダルをいただきました。今後もコミュニティへの貢献を続けていきたいと思います。 [Details](https://hanglige.com/images/IMG_9517.jpeg)
+
+##### 📌 2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
 
 ##### 📌 2026/03/26　共著論文「CausalMob: Causally Predicting Human Mobility with LLMs-Derived Human Intentions Toward Public Events」（Xiaojie Yang, Hangli Ge, Jiawei Wang, Zipei Fan, Renhe Jiang, Ryosuke Shibasaki, Noboru Koshizuka）が、電気通信普及財団によるテレコム学際研究学生賞・最優秀賞を受賞しました。
 
