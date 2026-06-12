@@ -65,7 +65,7 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
   <li>The International Workshop on “Artificial Intelligence for RAILwayS”</li>
   <li>International Conference on Innovative Structure and Resilient City</li>
   <li>IEEE SMC 2025 Special Session "Risk, security, and resilience in cyber-physical systems"</li></ul>
-
+- IEEE Computational Intelligence Society SHIELD Technical Committee （IEEE CIS SHIELD） Task Force on AI Governance, Regulation and Compliance (<a href="https://cis.taskforce.ieee.org/airc/">IEEE CIS AIRC</a> )
   !-->
 
 
@@ -74,7 +74,6 @@ As quantum hardware continues to advance, these quantum-based solutions are expe
 ### 🧭 Main Activities
 - Associate Editor, IEEE Internet of Things Journal
 - Editor, KSII Transactions on Internet and Information Systems
-- IEEE Computational Intelligence Society SHIELD Technical Committee （IEEE CIS SHIELD） Task Force on AI Governance, Regulation and Compliance (<a href="https://cis.taskforce.ieee.org/airc/">IEEE CIS AIRC</a> )
 
   
 ### 🪪 Memberships｜学会所属
