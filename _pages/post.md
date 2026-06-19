@@ -9,6 +9,8 @@ permalink: post/
 > Be curious, keep learning, and never let arrogance block your path to wisdom.
 
 
+##### 📌 2026/06/11 Excited to kick off the The AI Governance, Regulation and Compliance [(IEEE CIS AIRC)](https://cis.taskforce.ieee.org/airc/) Task Force Task Force, bringing together researchers, practitioners, policymakers, and industry leaders to advance trustworthy, responsible, and compliant AI governance for real-world deployment.
+
 ##### 📌 2026/05/27  Honored to serve as Symposium Chair of **“Secure & Resilient AI Systems”** at the ACM Conference on Trustworthy and Responsible AI and Computing Systems [(ACM TRUST 2027)](https://eigtrust.acm.org/trust2027/). We warmly welcome submissions across six core symposia!
 
 ##### 📌 2026/05/17  Our research paper, **“The Scaling Bottleneck of Human Mobility Modeling”** by Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Kazuma Hatano, Ryosuke Shibasaki, and Noboru Koshizuka, has been accepted for presentation at the **2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining [（ACM KDD 2026）](https://kdd2026.kdd.org/)**.
