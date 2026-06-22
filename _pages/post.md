@@ -9,7 +9,7 @@ permalink: post/
 > Be curious, keep learning, and never let arrogance block your path to wisdom.
 
 
-##### 📌 2026/06/20 One collaborative work has been featured on the [CiTiP Blog at Centre for IT & IP Law (CiTiP) @KU Leuven](https://www.law.kuleuven.be/citip/blog/). ["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"] (https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/)
+##### 📌 2026/06/20 One collaborative work has been featured on the [CiTiP Blog at Centre for IT & IP Law (CiTiP) @KU Leuven](https://www.law.kuleuven.be/citip/blog/). ["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/)
 
 ##### 📌 2026/06/11 Excited to kick off the The AI Governance, Regulation and Compliance [(IEEE CIS AIRC)](https://cis.taskforce.ieee.org/airc/) Task Force, bringing together global researchers, policymakers to advance trustworthy, responsible, and compliant AI governance for real-world deployment.
 
