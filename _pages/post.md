@@ -11,8 +11,7 @@ permalink: post/
 
 ##### 📌 2026/06/20 One of the collaborative works has been featured on the [CiTiP Blog at Centre for IT & IP Law (CiTiP) @KU Leuven](https://www.law.kuleuven.be/citip/blog/): ["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/)
 
-##### 📌 2026/06/16 – One paper accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026) **"Cyberspace Search Intentions as Leading Indicators
-for Proactive Traffic Hotspot Detection"**
+##### 📌 2026/06/16 – One paper accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026) **"Cyberspace Search Intentions as Leading Indicators for Proactive Traffic Hotspot Detection"**
 
 ##### 📌 2026/06/11 Excited to kick off the The AI Governance, Regulation and Compliance [(IEEE CIS AIRC)](https://cis.taskforce.ieee.org/airc/) Task Force, bringing together global researchers, policymakers to advance trustworthy, responsible, and compliant AI governance for real-world deployment.
 
