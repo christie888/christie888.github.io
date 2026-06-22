@@ -4,6 +4,8 @@ title: "最近のお知らせ"
 permalink: post_jp/
 ---
 
+##### 📌 　2026/06/20　KU Leuven（ルーヴェン・カトリック大学）CiTiP（Centre for IT & IP Law）ブログにて、共同執筆記事が掲載されました。「When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design」ヒューマノイドAIにおける安全性設計と責任のあり方について、法学と工学の両面から考察しています。
+
 ##### 📌 2026/06/11 [IEEE CIS AIRC（AI Governance, Regulation and Compliance）](https://cis.taskforce.ieee.org/airc/) タスクフォースのキックオフに参加しました。信頼できるAIガバナンスの実現に向けて、研究者・政策立案者などと国際連携して取り組みます。
 
 ##### 📌 2026/05/27  ACM Conference on Trustworthy and Responsible AI and Computing Systems[（ACM TRUST 2027）](https://eigtrust.acm.org/trust2027/)において, “Secure & Resilient AI Systems” シンポジウムのChairを務めることとなりました。6つの主要シンポジウムにて投稿を広く募集しております。
