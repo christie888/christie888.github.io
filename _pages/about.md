@@ -17,7 +17,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 📚 Research Topics
 <br>I am mainly specializing in the following research areas:
 
-**✨Topic 1: Cyber-Physical Big-Data Traffic/Mobility Systems
+**✨Topic 1: Cyber-Physical Big-Data Driven Traffic/Mobility Systems
 > Focuses on integrating cyber-physical infrastructure with big-data analytics to predict and optimize traffic and mobility. By combining diverse real-time data sources (e.g., sensors, mobility patterns, weather), it enables a shift from reactive traffic management to predictive and proactive optimization-driven decision-making in smart cities.
 
 **✨Topic 2: Complex Dynamic Systems for Urban Resilience
@@ -32,7 +32,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 **✨Topic 2: Complex Dynamic Systems for Urban Resillience**
 > Urban systems, as complex adaptive systems, exhibit nonlinear interactions, feedback loops, and emergent behaviors that shape their stability and potential for transformation. From a computational perspective, these dynamics can be represented and analyzed through approaches such as agent-based modeling, network analysis, system dynamics, and data-driven simulations. By leveraging computational models or digital twin tools to capture scenario-based dynamics, it enables the quantitative assessment of resilience, supports predictive analysis of system responses to shocks, and informs more robust strategies for urban planning, risk management, and sustainable development under conditions of uncertainty and ongoing environmental change.
 
-**✨Topic 2: Quantum Computing for Optimization Problems**
+**✨Topic 3: Quantum Computing for Optimization Problems**
 > Optimization is widely applied in machine learning, control systems and operations research. Classical approaches including gradient descent and evolutionary algorithms, are commonly used, while modern methods increasly integrate deep learning. However, optimization problems face computational challenges, particularly in large-scale graph structure and high-dimensional data, as many of them are NP-hard. Quantum computing is expected to revolutionize the fields that rely on complex optimization problem-solving, enabling faster and more accurate solutions in real-world applications.
 As quantum hardware continues to advance, these quantum-based solutions are expected to play an increasingly critical role in solving these optimization problem.
 
