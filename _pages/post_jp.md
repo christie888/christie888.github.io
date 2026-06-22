@@ -4,7 +4,7 @@ title: "最近のお知らせ"
 permalink: post_jp/
 ---
 
-##### 📌 　2026/06/20　[KU Leuven（ルーヴェン・カトリック大学）CiTiP（Centre for IT & IP Law）](https://www.law.kuleuven.be/citip/blog/)ブログにて、共同執筆記事が掲載されました。["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) ヒューマノイドAIにおける安全性設計と責任のあり方について、法学と工学の両面から考察しています。　
+##### 📌 2026/06/20　[KU Leuven（ルーヴェン・カトリック大学）CiTiP（Centre for IT & IP Law）](https://www.law.kuleuven.be/citip/blog/) ブログにて、共同執筆記事が掲載されました。["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) ヒューマノイドAIにおける安全性設計と責任のあり方について、法学と工学の両面から考察しています。　
 
 ##### 📌 2026/06/11 [IEEE CIS AIRC（AI Governance, Regulation and Compliance）](https://cis.taskforce.ieee.org/airc/) タスクフォースのキックオフに参加しました。信頼できるAIガバナンスの実現に向けて、研究者・政策立案者などと国際連携して取り組みます。
 
