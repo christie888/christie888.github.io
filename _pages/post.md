@@ -13,7 +13,7 @@ permalink: post/
 
 ##### 📌 2026/06/16 – One paper accepted for presentation at the IEEE International Conference on Systems, Man, and Cybernetics (IEEE SMC 2026) **"Cyberspace Search Intentions as Leading Indicators for Proactive Traffic Hotspot Detection"**
 
-##### 📌 2026/06/11 Excited to kick off the The AI Governance, Regulation and Compliance [(IEEE CIS AIRC)](https://cis.taskforce.ieee.org/airc/) Task Force, bringing together global researchers, policymakers to advance trustworthy, responsible, and compliant AI governance for real-world deployment.
+##### 📌 2026/06/11 Excited to kick off the AI Governance, Regulation and Compliance [(IEEE CIS AIRC)](https://cis.taskforce.ieee.org/airc/) Task Force, bringing together global researchers, policymakers to advance trustworthy, responsible, and compliant AI governance for real-world deployment.
 
 ##### 📌 2026/05/27  Honored to serve as Symposium Chair of **“Secure & Resilient AI Systems”** at the ACM Conference on Trustworthy and Responsible AI and Computing Systems [(ACM TRUST 2027)](https://eigtrust.acm.org/trust2027/). We warmly welcome submissions across six core symposia!
 
