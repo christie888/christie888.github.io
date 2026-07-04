@@ -9,7 +9,7 @@ permalink: post/
 > Be curious, keep learning, and never let arrogance block your path to wisdom.
 
 
-##### 📌 2026/07/01　Our paper, "Traffic Congestion Prediction in the Era of Big Traffic Data: An Empirical Study through Industry–Academia Collaboration and AI Challenge Competitions," has been published in the Journal of Traffic Engineering. The paper reports on industry–academia collaborative and empirical efforts conducted through the 2023 NEXCO Traffic Congestion Prediction AI Challenge (1st) and the 2024 NEXCO Traffic Congestion Prediction AI Challenge (2nd), highlighting the use of big traffic data and AI for data-driven traffic congestion prediction.
+##### 📌 2026/07/01 Our paper, "Traffic Congestion Prediction in the Era of Big Traffic Data: An Empirical Study through Industry–Academia Collaboration and AI Challenge Competitions," has been published in the Journal of Traffic Engineering. The paper reports on industry–academia collaborative and empirical efforts conducted through the 2023 NEXCO Traffic Congestion Prediction AI Challenge (1st) and the 2024 NEXCO Traffic Congestion Prediction AI Challenge (2nd), highlighting the use of big traffic data and AI for data-driven traffic congestion prediction.
 
 ##### 📌 2026/06/20 One of the collaborative works has been featured on the [CiTiP Blog at Centre for IT & IP Law (CiTiP) @KU Leuven](https://www.law.kuleuven.be/citip/blog/): ["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/)
 
