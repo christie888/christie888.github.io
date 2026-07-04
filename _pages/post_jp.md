@@ -5,6 +5,8 @@ permalink: post_jp/
 ---
 
 
+##### 📌 2026/07/01　論文「交通ビッグデータ時代における渋滞予測 ― 産学連携とAIチャレンジコンテストを通じた実証的取組み ―」が交通工学機関誌に掲載されました。本論文では、「2023 NEXCO 交通渋滞予測AIチャレンジ（第1回）」および「2024 NEXCO 交通渋滞予測AIチャレンジ（第2回）」を通じた産学連携及び実証的な取り組みについて報告しています。
+
 ##### 📌 2026/06/20　[KU Leuven（ルーヴェン・カトリック大学）CiTiP（Centre for IT & IP Law）](https://www.law.kuleuven.be/citip/blog/) ブログにて、共同執筆記事が掲載されました。["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) ヒューマノイドAIにおける安全性設計と責任のあり方について、法学と工学の両面から考察しています。　
 
 ##### 📌 2026/06/16　IEEE International Conference on Systems, Man, and Cybernetics（IEEE SMC 2026）に論文 「Cyberspace Search Intentions as Leading Indicators for Proactive Traffic Hotspot Detection」が採択されました。
