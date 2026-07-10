@@ -38,7 +38,7 @@ permalink: post_jp/
 ##### 📌 2025/11/06 3件の論文が **2025 IEEE International Conference on Big Data (IEEE BigData 2025)** に採択されました。
 >###### 1️⃣ **“Place with Intention: An Empirical Attendance Predictive Study of Expo 2025”** Xiaojie Yang, Dizhi Huang, Hangli Ge, Masahiro Sano, Takeaki Ohdake, Kazuma Hatano, Noboru Koshizuka <br> 2️⃣ **“Leveraging Visitor Mobility and IoT Sensor Networks for Sustainable Waste Management”**  Slamet Kristanto Tirto Utomo, Hangli Ge, Noboru Koshizuka<br> 3️⃣ **“XCKAN: Federated Catalog for Data Discovery in Dataspaces”** Hangli Ge, Hideaki Takeda, Takeshi Sagara, Naho Kitano, Noboru Koshizuka
 
-##### 📌 2025/08/12 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登による論文 **「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」** が **IEEE Transactions on Intelligent Transportation Systems** に **Regular Paper** として採択されました。
+##### 📌 2025/08/12 楊 曉傑、Tao Yicheng、葛 杭麗、Zipei Fan、Rajendra Akerkar、越塚 登による論文 **「LLeCaT: LLM-Enhanced Causality-Aware Traffic Accidents Post-Effects Prediction」** が **IEEE Transactions on Intelligent Transportation Systems (TITS)** に **Regular Paper** として採択されました。
 
 ##### 📌 2025/08/05 2件の論文が **2025 IEEE International Smart Cities Conference (ISC2 2025)** に採択されました。
 > ###### 1️⃣ **Smart Building–Robot Cooperation via Delegated Control: Enabling Lightweight Elevator Integration** 天野 克敏、葛 杭麗、千葉 彌平、越塚 登  <br> 2️⃣ **Ontology-Driven Building Operating System Integrated with Large Language Models for Intuitive Building Operations** 千葉 彌平、葛 杭麗、天野 克敏、越塚 登  
