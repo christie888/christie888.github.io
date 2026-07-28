@@ -10,7 +10,6 @@ permalink: post/
 
 
 ##### 📌 2026/07/15 Two research papers have been accepted for presentation at the **2026 IEEE International Conference on Intelligent Transportation Systems (IEEE ITSC 2026)**. The papers advance Data-driven intelligent transportation system : one presents a GPS-aligned framework for anomaly detection and localization in railway pantograph-catenary systems to support predictive railway maintenance. While the other introduces a privacy-preserving approach for inferring nationwide freight transportation topologies from large-scale expressway OD search data, enabling data-driven logistics and infrastructure planning.
-
 > ######  🚆 **“Anomaly Detection and Localization for the Pantograph-Catenary System”** <br> 🚛 **“Inferring Freight Topologies from Large-Scale Expressway OD Search Records”**
 
 
