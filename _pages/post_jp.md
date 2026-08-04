@@ -21,6 +21,8 @@ permalink: post_jp/
 
 ##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Kazuma Hatano, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining[（KDD 2026）](https://kdd2026.kdd.org/) に採択されました。
 
+##### 🎤 2026/05/11 西安交通リバプール大学（Xi’an Jiaotong-Liverpool University, XJTLU）モノのインターネット（物連網）学院（School of Internet of Things）にて、**「Matrix-based Solution for Large-scale Railway Evacuation（大規模鉄道避難のための行列ベースソリューション）」**をテーマに招待講演を行いました。
+
 ##### 📌 2026/04/15 IEEE活動に貢献したことが評価され、IEEE Japan メダルをいただきました。今後もコミュニティへの貢献を続けていきたいと思います。 [Details](https://hanglige.com/images/IMG_9517.jpeg)
 
 ##### 📌 2026/04/01　東京大学大学院情報学環・特任准教授に昇任することとなりました。これまで支えてくださった指導教員の先生方、同僚の皆様、そして友人の皆様に心より感謝申し上げます。
