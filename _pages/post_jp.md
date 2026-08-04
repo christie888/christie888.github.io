@@ -8,7 +8,6 @@ permalink: post_jp/
 ##### 📌2026/07/15 2本の研究論文が、2026 IEEE International Conference on Intelligent Transportation Systems（IEEE ITSC 2026）に採択されました。**データ駆動型インテリジェント交通システム**の実現に向けた取り組みの紹介です。1本目では、GPS情報と連携した鉄道パンタグラフ・架線系（PCS）の異常検知・位置特定フレームワークを提案し、鉄道インフラの予知保全を支援します。2本目では、大規模高速道路OD検索データを活用したプライバシー保護型の物流輸送ネットワーク推定手法を提案し、データ駆動型の物流トポロジー分析や交通インフラ計画への応用を目指します。
 >###### 🚛 **Inferring Freight Topologies from Large-Scale Expressway OD Search Records**<br>🚆 **Anomaly Detection and Localization for the Pantograph-Catenary System**　
 
-
 ##### 📌 2026/07/01　論文「交通ビッグデータ時代における渋滞予測 ― 産学連携とAIチャレンジコンテストを通じた実証的取組み ―」が交通工学機関誌に掲載されました。本論文では、「2023 NEXCO 交通渋滞予測AIチャレンジ（第1回）」および「2024 NEXCO 交通渋滞予測AIチャレンジ（第2回）」を通じた産学連携及び実証的な取り組みについて報告しています。
 
 ##### 📌 2026/06/20　[KU Leuven（ルーヴェン・カトリック大学）CiTiP（Centre for IT & IP Law）](https://www.law.kuleuven.be/citip/blog/) ブログにて、共同執筆記事が掲載されました。["When a Robot Kicks a Child: What Humanoid AI Can Teach Us About Liability and Safety by Design"](https://www.law.kuleuven.be/citip/blog/when-a-robot-kicks-a-child-what-humanoid-ai-can-teach-us-about-liability-and-safety-by-design/) ヒューマノイドAIにおける安全性設計と責任のあり方について、法学と工学の両面から考察しています。　
@@ -21,7 +20,7 @@ permalink: post_jp/
 
 ##### 📌 2026/05/17  Lifeng Lin, Hangli Ge, Xiang Zhang, Yao Yao, Kazuma Hatano, Ryosuke Shibasaki, Noboru Koshizuka による研究論文 “The Scaling Bottleneck of Human Mobility Modeling” が，2026 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining[（KDD 2026）](https://kdd2026.kdd.org/) に採択されました。
 
-##### 🎤 2026/05/11 西安交通リバプール大学（Xi’an Jiaotong-Liverpool University, XJTLU）モノのインターネット（物連網）学院（School of Internet of Things）にて、**「Matrix-based Solution for Large-scale Railway Evacuation（大規模鉄道避難のための行列ベースソリューション）」**をテーマに招待講演を行いました。
+##### 🎤 2026/05/11 西安交通リバプール大学（Xi’an Jiaotong-Liverpool University, XJTLU）モノのインターネット（物連網）学院（School of Internet of Things）にて、「Matrix-based Solution for Large-scale Railway Evacuation（大規模鉄道避難のための行列ベースソリューション）」をテーマに招待講演を行いました。
 
 ##### 📌 2026/04/15 IEEE活動に貢献したことが評価され、IEEE Japan メダルをいただきました。今後もコミュニティへの貢献を続けていきたいと思います。 [Details](https://hanglige.com/images/IMG_9517.jpeg)
 
