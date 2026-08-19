@@ -5,6 +5,11 @@ permalink: post_jp/
 ---
 
 
+##### 📌2026/08/10 2本の論文が ACM SIGSPATIAL 2026 に採択されました！🎉
+> ###### 🚗 **「Congestion Forecasting (Actionably) Revisited: Limitations of Deep Learning and Potential of LLM-as-Data-Scientist」**<br>
+> 📍 **「Simulating Mega-Event Spatial Demand: A Case Study of Expo 2025 Osaka, Kansai, Japan」**
+
+
 ##### 📌2026/07/15 2本の研究論文が、2026 IEEE International Conference on Intelligent Transportation Systems（IEEE ITSC 2026）に採択されました。**データ駆動型インテリジェント交通システム**の実現に向けた取り組みの紹介です。1本目では、GPS情報と連携した鉄道パンタグラフ・架線系（PCS）の異常検知・位置特定フレームワークを提案し、鉄道インフラの予知保全を支援します。2本目では、大規模高速道路OD検索データを活用したプライバシー保護型の物流輸送ネットワーク推定手法を提案し、データ駆動型の物流トポロジー分析や交通インフラ計画への応用を目指します。
 >###### 🚛 **Inferring Freight Topologies from Large-Scale Expressway OD Search Records**<br>🚆 **Anomaly Detection and Localization for the Pantograph-Catenary System**　
 
