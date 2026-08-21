@@ -38,7 +38,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 
 ### ✨ Topic 3: Next-Generation Computing for Large-Scale Optimization
 
-> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional problems** arising in mobility, machine learning, control systems, operations research, toward **faster, scalable, and computationally efficient optimization**.
+> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional problems** arising in mobility, control systems, operations research, toward **faster, scalable, and computationally efficient optimization**.
 
 **Large-Scale Problems → Next-Generation Computing → Scalable Optimization**
 
