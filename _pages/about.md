@@ -29,13 +29,19 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 ---
 
 ### ✨ Topic 2: Complex Dynamic Systems for Urban Resilience
-> Modeling cities as **complex adaptive systems** using computational approaches such as **agent-based modeling and digital twins** to analyze urban dynamics, assess resilience, and simulate responses to disruptions. The goal is to support **robust urban planning, risk management, and resilient decision-making under uncertainty**. <br> **Urban Dynamics → Simulation → Resilience**
+> Modeling cities as **complex adaptive systems** using computational approaches such as **agent-based modeling and digital twins** to analyze urban dynamics, assess resilience, and simulate responses to disruptions. The goal is to support **robust urban planning, risk management, and resilient decision-making under uncertainty**. 
+<p align="left">
+  <strong>Urban Dynamics &nbsp;→&nbsp; Simulation  &nbsp;→&nbsp; Resilience</strong>
+</p>
+
 
 ---
 
 ### ✨ Topic 3: Next-Generation Computing for Large-Scale Optimization
-> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional optimization problems** arising in mobility, logistics, control systems, and operations research, aiming to achieve **faster, more scalable, and computationally efficient solutions**.<br>
-> **Large-Scale Problems → Next-Generation Computing → Scalable Optimization**
+> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional optimization problems** arising in mobility, logistics, control systems, and operations research, aiming to achieve **faster, more scalable, and computationally efficient solutions**.
+<p align="left">
+  <strong>Large-Scale Problems &nbsp;→&nbsp; Next-Generation Computing  &nbsp;→&nbsp; Scalable Optimization</strong>
+</p>
 
 <!-- 
 
