@@ -21,6 +21,43 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 ## 🔬 Research Topics
 
 ### ✨ Topic 1: Cyber-Physical Big-Data-Driven Traffic & Mobility Systems
+<div style="margin-top: -8px; margin-bottom: 4px;">
+<blockquote style="margin-bottom: 4px;">
+Integrating heterogeneous <strong>cyber-physical spatial data</strong>, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for <strong>traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization</strong>. The goal is to transform urban mobility management from <strong>reactive responses to predictive and proactive decision-making</strong>.
+</blockquote>
+</div>
+<div style="margin-top: 0; margin-bottom: 12px;">
+<strong>Cyber-Physical Data &nbsp;→&nbsp; Prediction &nbsp;→&nbsp; Proactive Decision-Making</strong>
+</div>
+
+---
+
+### ✨ Topic 2: Complex Dynamic Systems for Urban Resilience
+<div style="margin-top: -8px; margin-bottom: 4px;">
+<blockquote style="margin-bottom: 4px;">
+Modeling cities as <strong>complex adaptive systems</strong> using computational approaches such as <strong>agent-based modeling and digital twins</strong> to analyze urban dynamics, assess resilience, and simulate responses to disruptions. The goal is to support <strong>robust urban planning, risk management, and resilient decision-making under uncertainty</strong>.
+</blockquote>
+</div>
+<div style="margin-top: 0; margin-bottom: 12px;">
+<strong>Urban Dynamics &nbsp;→&nbsp; Simulation &nbsp;→&nbsp; Resilience</strong>
+</div>
+
+---
+
+### ✨ Topic 3: Next-Generation Computing for Large-Scale Optimization
+<div style="margin-top: -8px; margin-bottom: 4px;">
+<blockquote style="margin-bottom: 4px;">
+Exploring <strong>next-generation computing paradigms</strong>, including quantum and hybrid computing, to address the <strong>computational performance and scalability challenges</strong> of large-scale optimization. The research focuses on <strong>graph-structured and high-dimensional optimization problems</strong> arising in mobility, logistics, control systems, and operations research, aiming to achieve <strong>faster, more scalable, and computationally efficient solutions</strong>.
+</blockquote>
+</div>
+<div style="margin-top: 0; margin-bottom: 12px;">
+<strong>Large-Scale Problems &nbsp;→&nbsp; Next-Generation Computing &nbsp;→&nbsp; Scalable Optimization</strong>
+</div>
+
+<!-- 
+
+
+### ✨ Topic 1: Cyber-Physical Big-Data-Driven Traffic & Mobility Systems
 > Integrating heterogeneous **cyber-physical spatial data**, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for **traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization**. The goal is to transform urban mobility management from **reactive responses to predictive and proactive decision-making**. 
  <p align="left">
   <strong>Cyber-Physical Data &nbsp;→&nbsp; Prediction &nbsp;→&nbsp; Proactive Decision-Making</strong>
@@ -43,7 +80,6 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
   <strong>Large-Scale Problems &nbsp;→&nbsp; Next-Generation Computing  &nbsp;→&nbsp; Scalable Optimization</strong>
 </p>
 
-<!-- 
 
 **✨Topic 1: Cyber-Physical Big-Data Driven Traffic/Mobility Systems
 > Integrating heterogeneous cyber-physical spatial data from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation and route, POI search records, event calendar) for traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization, enabling a shift from reactive responses to predictive and proactive decision-making.
