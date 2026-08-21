@@ -21,20 +21,18 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 ## 🔬 Research Topics
 
 ### ✨ Topic 1: Cyber-Physical Big-Data-Driven Traffic & Mobility Systems
-
 > Integrating heterogeneous **cyber-physical spatial data**, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for **traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization**. The goal is to transform urban mobility management from **reactive responses to predictive and proactive decision-making**. <br> **Cyber-Physical Data → Prediction → Proactive Decision-Making**
 
 ---
 
 ### ✨ Topic 2: Complex Dynamic Systems for Urban Resilience
-
 > Modeling cities as **complex adaptive systems** using computational approaches such as **agent-based modeling and digital twins** to analyze urban dynamics, assess resilience, and simulate responses to disruptions. The goal is to support **robust urban planning, risk management, and resilient decision-making under uncertainty**. <br> **Urban Dynamics → Simulation → Resilience**
 
 ---
 
 ### ✨ Topic 3: Next-Generation Computing for Large-Scale Optimization
-
-> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional problems** arising in mobility, control systems, operations research, toward **faster, scalable, and computationally efficient optimization**.<br> **Large-Scale Problems → Next-Generation Computing → Scalable Optimization**
+> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional optimization problems** arising in mobility, logistics, control systems, and operations research, aiming to achieve **faster, more scalable, and computationally efficient solutions**.<br>
+> **Large-Scale Problems → Next-Generation Computing → Scalable Optimization**
 
 <!-- 
 
