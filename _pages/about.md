@@ -17,15 +17,41 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 📚 Research Topics
 <br>I am mainly specializing in the following research areas:
 
+
+## 🔬 Research Topics
+
+### ✨ Topic 1: Cyber-Physical Big-Data-Driven Traffic & Mobility Systems
+
+> Integrating heterogeneous **cyber-physical spatial data**, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for **traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization**. The goal is to transform urban mobility management from **reactive responses to predictive and proactive decision-making**.
+
+**Cyber-Physical Data → Prediction → Proactive Decision-Making**
+
+---
+
+### ✨ Topic 2: Complex Dynamic Systems for Urban Resilience
+
+> Modeling cities as **complex adaptive systems** using computational approaches such as **agent-based modeling and digital twins** to analyze urban dynamics, assess resilience, and simulate responses to disruptions. The goal is to support **robust urban planning, risk management, and resilient decision-making under uncertainty**.
+
+**Urban Dynamics → Simulation → Resilience**
+
+---
+
+### ✨ Topic 3: Next-Generation Computing for Large-Scale Optimization
+
+> Exploring **next-generation computing paradigms**, including quantum and hybrid computing, to address the **computational performance and scalability challenges** of large-scale optimization. The research focuses on **graph-structured and high-dimensional problems** arising in mobility, machine learning, control systems, operations research, toward **faster, scalable, and computationally efficient optimization**.
+
+**Large-Scale Problems → Next-Generation Computing → Scalable Optimization**
+
+<!-- 
+
 **✨Topic 1: Cyber-Physical Big-Data Driven Traffic/Mobility Systems
-> Focuses on integrating cyber-physical infrastructure with big-data analytics to predict and optimize traffic and mobility. By combining diverse real-time data sources (e.g., sensors, mobility patterns, weather), it enables a shift from reactive traffic management to predictive and proactive optimization-driven decision-making in smart cities.
+> Integrating heterogeneous cyber-physical spatial data from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation and route, POI search records, event calendar) for traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization, enabling a shift from reactive responses to predictive and proactive decision-making.
 
 **✨Topic 2: Complex Dynamic Systems for Urban Resilience
 > Examines cities as complex adaptive systems using computational models (e.g., agent-based models, digital twins) to analyze dynamics, assess resilience, and simulate responses to disruptions. The goal is to support robust urban planning, risk management, and sustainable development under uncertainty.
+>
+> 
 
-
-
-<!-- 
 **✨Topic 1: Cyber-Physical, Big-Data-Driven Solutions for Traffic, Mobility, and Congestion Prediction and Optimization**
 > The integration of cyber-physical infrastructure with big-data-driven analytics enables advanced traffic, mobility, and congestion prediction and optimization. Such systems typically fuse heterogeneous data sources, including roadside sensors, real-time traffic data, human mobility patterns, weather information, and traffic control systems. By leveraging these diverse data streams, the system can capture real-time traffic dynamics and support predictive modeling as well as proactive decision-making. This paradigm is widely recognized as a key direction in modern intelligent transportation systems and smart cities, shifting traffic management from reactive operations toward predictive and optimization-based strategies.
 
