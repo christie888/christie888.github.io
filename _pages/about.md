@@ -23,7 +23,7 @@ My name is  Hangli Ge (葛杭丽 | 葛杭麗). I am currently a Project Associat
 ### ✨ Topic 1: Cyber-Physical Big-Data-Driven Traffic & Mobility Systems
 <div style="margin-top: -8px; margin-bottom: 4px;">
 <blockquote style="margin-bottom: 4px;">
-Integrating heterogeneous <strong>cyber-physical spatial data</strong>, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for <strong>traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization</strong>. The goal is to transform urban mobility management from <strong>reactive responses to predictive and proactive decision-making</strong>.
+Integrating heterogeneous <strong>cyber-physical big data</strong>, from physical-world observations (e.g., sensors, traffic, human mobility, and weather) to cyberspace data (e.g., reservation records, route/POI search records, and event calendars), for <strong>traffic and mobility prediction, congestion forecasting, demand estimation, and proactive optimization</strong>. The goal is to transform urban mobility management from <strong>reactive responses to predictive and proactive decision-making</strong>.
 </blockquote>
 </div>
 <div style="margin-top: 0; margin-bottom: 12px;">
