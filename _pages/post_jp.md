@@ -5,6 +5,8 @@ permalink: post_jp/
 ---
 
 
+##### 📌2026/09/16　香港科技大学（HKUST）で開催されたAsian Deans’ Forum 2026の一環である「Rising Stars Women in Engineering」に選抜され、都市レジリエンスに関する研究成果を発表しました。
+
 ##### 📌2026/08/10 2本の論文が ACM SIGSPATIAL 2026 に採択されました🎉
 > ###### 🚗 **「Congestion Forecasting (Actionably) Revisited: Limitations of Deep Learning and Potential of LLM-as-Data-Scientist」**<br>📍 **「Simulating Mega-Event Spatial Demand: A Case Study of Expo 2025 Osaka, Kansai, Japan」**
 
