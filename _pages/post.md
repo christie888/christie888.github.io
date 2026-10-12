@@ -9,7 +9,7 @@ permalink: post/
 > Be curious, keep learning, and never let arrogance block your path to wisdom.
 
 
-##### 📌 2026/09/16 Honored to participate in the Rising Stars Women in Engineering Workshop at HKUST 2026, part of the Asian Deans’ Forum 2026, and share my research on urban resilience. 
+##### 📌 2026/09/16 Honored to have been selected as one of the Rising Stars Women in Engineering and to have participated in the workshop held as part of the Asian Deans’ Forum 2026 at HKUST, where I shared my research on urban resilience.
 
 ##### 📌 2026/08/10 Two papers have been accepted to ACM SIGSPATIAL 2026! 🎉
 > ######  🚗 **“Congestion Forecasting (Actionably) Revisited: Limitations of Deep Learning and Potential of LLM-as-Data-Scientist”**<br> 📍 **“Simulating Mega-Event Spatial Demand: A Case Study of Expo 2025 Osaka, Kansai, Japan”**
